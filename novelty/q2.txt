@@ -1,0 +1,113 @@
+
+per-source hits: arxiv=0, dblp=0, open_alex=0, openreview=0, semantic_scholar=10, crossref=10
+unique papers: 18 (2 cross-source duplicate records merged)
+============================================================
+  [1] (score 5) Evaluating Very Long-Term Conversational Memory of LLM Agents
+      Authors: Adyasha Maharana, Dong-Ho Lee, S. Tulyakov...
+      Year: 2024  Citations: 861  Venue: Annual Meeting of the Association for Computational Linguistics
+      Sources: semantic_scholar  doi:10.48550/arXiv.2402.17753 arXiv:2402.17753
+      URL: https://www.semanticscholar.org/paper/0bf3a1867f7245b8a702093901c66b08b518eafc
+
+  [2] (score 5) Enabling Personalized Long-term Interactions in LLM-based Agents through Persistent Memory and User Profiles
+      Authors: Rebecca Westhäußer, Wolfgang Minker, Sebastian Zepf
+      Year: 2025  Citations: 18  Venue: arXiv.org
+      Sources: semantic_scholar  doi:10.48550/arXiv.2510.07925 arXiv:2510.07925
+      URL: https://www.semanticscholar.org/paper/e34a188febee7ea42dc9d7c18060023b396afb53
+
+  [3] (score 5) Infini Memory: Maintainable Topic Documents for Long-Term LLM Agent Memory
+      Authors: Suozhao Ji, Baodong Wu, Ze-Hao Wang...
+      Year: 2026  Citations: 4  Venue: arXiv.org
+      Sources: semantic_scholar  doi:10.48550/arXiv.2606.10677 arXiv:2606.10677
+      URL: https://www.semanticscholar.org/paper/88dbe355b1b80619782e74c5b2dcd600f0fb5323
+
+  [4] (score 5) TA-Mem: Tool-Augmented Autonomous Memory Retrieval for LLM in Long-Term Conversational QA
+      Authors: Mengwei Yuan, Jianan Liu, Jing Yang...
+      Year: 2026  Citations: 3  Venue: 2026 9th International Conference on Advanced Algorithms and Control Engineering (ICAACE)
+      Sources: semantic_scholar  doi:10.1109/ICAACE69793.2026.11509181 arXiv:2603.09297
+      URL: https://www.semanticscholar.org/paper/fcf6dbbb51be12ab7900c03c06d268bb087eeffd
+
+  [5] (score 5) MemRefine: LLM-Guided Compression for Long-Term Agent Memory
+      Authors: Minjae Kim, Jinheon Baek, Soyeong Jeong...
+      Year: 2026  Citations: 2  Venue: arXiv.org
+      Sources: semantic_scholar  doi:10.48550/arXiv.2606.13177 arXiv:2606.13177
+      URL: https://www.semanticscholar.org/paper/a034014127bcf8af0bdcf0baa91a4d126ec16445
+
+  [6] (score 5) RippleMem: From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory
+      Authors: Jingbo Ji, Lingyi Li, Xilong Cheng...
+      Year: 2026  Citations: 1  Venue: 
+      Sources: semantic_scholar  arXiv:2608.13334
+      URL: https://www.semanticscholar.org/paper/95d185cf40d0ab3b4c4183db74aeff69a0c7bec3
+
+  [7] (score 5) Agent Zero Memory: Provenance-Aware Long-Term Memory for LLM Agents
+      Authors: Ming Wu, Peng-Yuan Zhu
+      Year: 2026  Citations: 0  Venue: 
+      Sources: semantic_scholar  arXiv:2608.29606
+      URL: https://www.semanticscholar.org/paper/9e194578ed0c1ad5310c08e104da1d7a9b2a96be
+
+  [8] (score 5) IFCMemoryBench: Evaluating Long-Term Memory of LLM-Based Agents in BIM Information Retrieval
+      Authors: Changyu Du, Alexander Vosseler, Filippo Mazza...
+      Year: 2026  Citations: 0  Venue: arXiv.org
+      Sources: semantic_scholar  doi:10.48550/arXiv.2607.26072 arXiv:2607.26072
+      URL: https://www.semanticscholar.org/paper/279af1143cecd6f6b2e43668284642da8ce58026
+
+  [9] (score 5) Retrieval-Driven Memory Reconsolidation for Long-Term LLM Agents
+      Authors: Yuan-Yi Song, Yukai Wang, Xinbei Ma...
+      Year: 2026  Citations: 0  Venue: 
+      Sources: semantic_scholar  arXiv:2609.16053
+      URL: https://www.semanticscholar.org/paper/454d0d95cde4df5d2241e4682b392eff1497f0f5
+
+  [10] (score 5) Transferable End-to-End Optimization for Indirect Long-Term Memory Poisoning in LLM Agents
+      Authors: Chuanchao Zang, Jianing Wang, Wenyu Chen...
+      Year: 2026  Citations: 0  Venue: 
+      Sources: semantic_scholar  arXiv:2609.00523
+      URL: https://www.semanticscholar.org/paper/a27dc80dc47f099ba992824632c850fb533e2af4
+
+  [11] (score 4) Retrieval Beats Cheap Structured Memory: A Cost–Retention Study of LLM Agent Memory on Real Long-Conversation Benchmarks
+      Authors: Ishan Gautam, Kushal K.C.
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.20944/preprints202608.1369.v1
+      URL: https://doi.org/10.20944/preprints202608.1369.v1
+
+  [12] (score 4) A Long-Term Construction Memory System for Infrastructure Digital Twins with LLM-Augmented Retrieval: A Six-Layer Architecture for Cognitive Memory Encoding, RAG-Based Reasoning, and Lifecycle Decision Support
+      Authors: Dongwook Kim
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.2139/ssrn.6947979
+      URL: https://doi.org/10.2139/ssrn.6947979
+
+  [13] (score 4) Long-Term Memory Processes: Memory Retrieval
+      Authors: 
+      Year: 2025  Citations: 0  Venue: Cognition
+      Sources: crossref  doi:10.1017/9781009244367.009
+      URL: https://doi.org/10.1017/9781009244367.009
+
+  [14] (score 4) Retrieval from long-term memory does not bypass working memory
+      Authors: Michael Mugno, Timothy Vickery
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.31234/osf.io/4p8cb_v1
+      URL: https://doi.org/10.31234/osf.io/4p8cb_v1
+
+  [15] (score 4) VAIL: Retrieval Authorizes Inspection, Not Use — Governed Memory for Long-Horizon Multi-Agent LLM Systems
+      Authors: Ming Wang, Keyang Han, Ruyi Wang...
+      Year: 2026  Citations: 0  Venue: 2026 12th International Conference on Big Data and Information Analytics (BigDIA)
+      Sources: crossref  doi:10.1109/bigdia71496.2026.11684708
+      URL: https://doi.org/10.1109/bigdia71496.2026.11684708
+
+  [16] (score 4) Asterism: A Hebbian-Weighted Knowledge Graph as a Priority Index over Long-Term LLM Memory
+      Authors: Bidit Das
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.2139/ssrn.7257118
+      URL: https://doi.org/10.2139/ssrn.7257118
+
+  [17] (score 4) Layered Convergence in Autonomous Agent Memory: A Multi-Model Cognitive Architecture for Persistent Recall in Long-Running LLM Agents
+      Authors: Lance Harris
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.2139/ssrn.6616122
+      URL: https://doi.org/10.2139/ssrn.6616122
+
+  [18] (score 3) PROMPT PERSISTENCE ATTACKS: LONG-TERM MEMORY POISONING IN LLM-BASED SYSTEMS
+      Authors: Pranav Bhatnagar
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.2139/ssrn.6183548
+      URL: https://doi.org/10.2139/ssrn.6183548
+
+Total: 18 unique papers (ranked; surveys sunk to the bottom).

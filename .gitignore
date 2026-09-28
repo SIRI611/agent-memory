@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local experiment artifacts
+.venv-embed/
+results/
+novelty/papers/
+data/heldout/longmemeval/

@@ -1,0 +1,71 @@
+
+per-source hits: arxiv=0, dblp=0, open_alex=0, openreview=0, semantic_scholar=2, crossref=10
+unique papers: 11 (1 cross-source duplicate records merged)
+============================================================
+  [1] (score 8) MobileMem: Learning from a Year of Mobile Experiences
+      Authors: Xin-Le Deng, Yida Xue, Xiangyuan Ru...
+      Year: 2026  Citations: 1  Venue: 
+      Sources: semantic_scholar  arXiv:2608.13606
+      URL: https://www.semanticscholar.org/paper/00b98ffafc12766e66f899ee833c4844fb314b96
+
+  [2] (score 7) ActMem: Bridging the Gap Between Memory Retrieval and Reasoning in LLM Agents
+      Authors: Xiaohui Zhang, Zequn Sun, Cheng Yang...
+      Year: 2026  Citations: 6  Venue: arXiv.org
+      Sources: semantic_scholar  doi:10.48550/arXiv.2603.00026 arXiv:2603.00026
+      URL: https://www.semanticscholar.org/paper/5d09b0996cabd3fd4c8c0bbbd93e2c7120b49ce2
+
+  [3] (score 6) Bridging Intuitive Associations and Deliberate Recall: Empowering LLM Personal Assistant with Graph-Structured Long-term Memory
+      Authors: Yujie Zhang, Weikang Yuan, Zhuoren Jiang
+      Year: 2025  Citations: 0  Venue: Findings of the Association for Computational Linguistics: ACL 2025
+      Sources: crossref  doi:10.18653/v1/2025.findings-acl.901
+      URL: https://doi.org/10.18653/v1/2025.findings-acl.901
+
+  [4] (score 5) LLM-based Medical Assistant Personalization with Short- and Long-Term Memory Coordination
+      Authors: Kai Zhang, Yangyang Kang, Fubang Zhao...
+      Year: 2024  Citations: 19  Venue: Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
+      Sources: crossref  doi:10.18653/v1/2024.naacl-long.132
+      URL: https://doi.org/10.18653/v1/2024.naacl-long.132
+
+  [5] (score 5) Retraction notice: Intelligent personal assistant for personal computers using long short-term memory-based verbalizer
+      Authors: 
+      Year: 2025  Citations: 0  Venue: International Journal of Intelligent Unmanned Systems
+      Sources: crossref  doi:10.1108/ijius-08-2024-0234
+      URL: https://doi.org/10.1108/ijius-08-2024-0234
+
+  [6] (score 4) Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory
+      Authors: Zihao Tang, Xin Yu, Ziyu Xiao...
+      Year: 2026  Citations: 1  Venue: Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+      Sources: crossref  doi:10.18653/v1/2026.acl-long.1096
+      URL: https://doi.org/10.18653/v1/2026.acl-long.1096
+
+  [7] (score 4) A Long-Term Construction Memory System for Infrastructure Digital Twins with LLM-Augmented Retrieval: A Six-Layer Architecture for Cognitive Memory Encoding, RAG-Based Reasoning, and Lifecycle Decision Support
+      Authors: Dongwook Kim
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.2139/ssrn.6947979
+      URL: https://doi.org/10.2139/ssrn.6947979
+
+  [8] (score 4) PROMPT PERSISTENCE ATTACKS: LONG-TERM MEMORY POISONING IN LLM-BASED SYSTEMS
+      Authors: Pranav Bhatnagar
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.2139/ssrn.6183548
+      URL: https://doi.org/10.2139/ssrn.6183548
+
+  [9] (score 4) Long-Term Memory Processes: Memory Retrieval
+      Authors: 
+      Year: 2025  Citations: 0  Venue: Cognition
+      Sources: crossref  doi:10.1017/9781009244367.009
+      URL: https://doi.org/10.1017/9781009244367.009
+
+  [10] (score 4) Retrieval from long-term memory does not bypass working memory
+      Authors: Michael Mugno, Timothy Vickery
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.31234/osf.io/4p8cb_v1
+      URL: https://doi.org/10.31234/osf.io/4p8cb_v1
+
+  [11] (score 3) Preference-Aware Memory Update for Long-Term LLM Agents
+      Authors: Haoran Sun, Zekun Zhang, Shaoning Zeng
+      Year: 2026  Citations: 1  Venue: Findings of the Association for Computational Linguistics: ACL 2026
+      Sources: crossref  doi:10.18653/v1/2026.findings-acl.38
+      URL: https://doi.org/10.18653/v1/2026.findings-acl.38
+
+Total: 11 unique papers (ranked; surveys sunk to the bottom).

@@ -1,0 +1,13 @@
+# Step 1 — Decompose the Novelty
+
+Timestamp: 2026-09-23 19:45 (UTC-6)
+
+## Inputs
+- **Research problem:** LLM long-term memory fails on implicit associations: a stored personal fact (e.g., "I take warfarin") is needed to answer a later request with no lexical/embedding similarity ("is cranberry juice healthy?"). InMind (Li et al., arXiv 2607.24368) shows all query-conditioned retrieval systems reach ≤16% indirect accuracy vs 84% oracle-in-context; calls for a "relevance function conditioned on knowledge"; dismisses running a full model over every memory as too costly.
+- **Novelty:** Use a cheap calibrated System-One evaluator (TypeSafe Jev; probabilities, ~$0.042/1M input tokens) as an exhaustive knowledge-conditioned relevance function: at query time score EVERY stored fact with "is this fact required to answer this request safely/correctly/appropriately?" — no embedding/lexical candidate generation — and put top-5 in context. Optional two-stage: write-time Jev gate (persistent user-specific fact, P≥0.5) then query-time scoring over gated pool. InMind recall@5: 94.4% (full scan) / 96.8% (two-stage) vs BM25 4.8%, MiniLM 9.6%, Jev-Mem-style hybrid-anchor+rerank 8.8%.
+
+## Decomposed claim (four axes)
+- **Problem framing** — Query-time retrieval of stored personal user facts for an LLM assistant where the needed fact is *implicitly* relevant (no lexical/semantic overlap with the request); input = request + full user-fact store; output = top-5 facts to put in context; evaluated by target-fact recall@5 (and downstream indirect accuracy) on InMind (125 tasks), vs BM25 / dense / hybrid-anchor+rerank baselines.
+- **Core mechanism** — Exhaustive, candidate-generation-free pointwise scoring of every (request, fact) pair by a cheap calibrated classifier-style evaluator (Jev) with a "is this fact required to answer safely/correctly/appropriately?" prompt, top-k by probability; optional write-time admission gate (persistent user-specific fact?) using the same evaluator to shrink the pool.
+- **Key insight** — The failure on implicit associations is caused by the similarity-based candidate-generation stage (the reranker never sees the right fact), not by the reranker; a sufficiently cheap calibrated evaluator makes brute-force knowledge-conditioned relevance scoring over the whole memory affordable, satisfying InMind's "retrieval hypothesis" that InMind dismissed as too costly.
+- **Application domain** — Personalized conversational assistants' long-term user memory (safety-/health-/preference-sensitive implicit personalization); evaluated on InMind; plausibly extends to any small-to-mid-size per-user memory store.

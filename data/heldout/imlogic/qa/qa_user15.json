@@ -1,0 +1,1157 @@
+[
+    {
+        "memory_s": "During a negotiation on Aug 16, 2031, Oleksandr Shevchenko's tailored suit boosted his confidence and professionalism, contributing to the success of the meeting.",
+        "memory_l": "Oleksandr Shevchenko plans to incorporate traditional garments with modern twists into his wardrobe for greater cultural expression.",
+        "query_type": "Recommendation",
+        "query": "What should I wear for my upcoming high-stakes business negotiation to ensure I feel confident?",
+        "options": {
+            "Correct": "Considering your plan to incorporate traditional garments with modern twists for cultural expression, I recommend a tailored outfit that subtly integrates those heritage elements while maintaining professionalism.",
+            "Trap_Preference": "Since your tailored suit significantly boosted your confidence and professionalism during your successful negotiation back in 2031, you should definitely wear that same style again.",
+            "Trap_Fabrication": "You should wear a standard navy suit because your company recently implemented a strict Western business formal dress code policy for all international meetings.",
+            "Trap_Generic": "For a high-stakes negotiation, it is generally best to wear a dark, well-fitted suit in charcoal or navy, as this conveys authority and reliability in business settings."
+        },
+        "diff_similarity_score": -0.0624,
+        "query_time": "Jun 15, 2033",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr expressed excitement about using music to inspire change and reflect on social justice issues.",
+        "memory_l": "Oleksandr plans to write articles and speak at conferences to share his insights on health, balance, and advocacy.",
+        "query_type": "Advice",
+        "query": "Should I focus my upcoming advocacy efforts on composing protest songs?",
+        "options": {
+            "Correct": "While using music for social justice is an exciting idea you've considered, your actual plan is to focus on writing articles and speaking at conferences to share your insights on health and advocacy.",
+            "Trap_Preference": "Yes, you should definitely focus on composing protest songs, as you have expressed a strong excitement about using music to inspire change and reflect on social justice issues.",
+            "Trap_Fabrication": "That sounds like a great plan, especially since you recently purchased a new recording studio setup specifically to produce an album dedicated to social change.",
+            "Trap_Generic": "Composing protest songs can be a powerful way to raise awareness and inspire action, so focusing your advocacy efforts on music could be very impactful."
+        },
+        "diff_similarity_score": -0.2338,
+        "query_time": "Apr 20, 2037",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr's commitment to social justice influences his music preferences, seeking genres that resonate with his values.",
+        "memory_l": "Oleksandr Shevchenko's job title is Head of Human Rights Advocacy at Kyiv Regional Law Firm.",
+        "query_type": "Recommendation",
+        "query": "Can you recommend some underground punk bands with anti-establishment lyrics for me to promote publicly on my professional social media?",
+        "options": {
+            "Correct": "Given your position as Head of Human Rights Advocacy at a Kyiv Regional Law Firm, it would be risky to promote anti-establishment lyrics on your professional channels, despite your interest in social justice music.",
+            "Trap_Preference": "Since you are committed to social justice and enjoy music that resonates with those values, promoting underground punk bands with strong anti-establishment messages would be a perfect fit for your profile.",
+            "Trap_Fabrication": "You should go ahead with that; since your law firm recently launched a 'Rebel Voices' campaign to support underground artists, sharing these bands aligns perfectly with current company initiatives.",
+            "Trap_Generic": "Promoting underground punk bands is a great way to show support for independent artists and can really engage an audience looking for authentic, raw musical expression on social media."
+        },
+        "diff_similarity_score": -0.1358,
+        "query_time": "May 09, 2032",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko uses music as a way to connect with cultural narratives and social issues, reflecting his commitment to social justice.",
+        "memory_l": "Oleksandr Shevchenko aims to focus more on life goals related to combating corruption and promoting human rights in Ukraine.",
+        "query_type": "Advice",
+        "query": "Should I prioritize launching a new music album to highlight social justice narratives?",
+        "options": {
+            "Correct": "While using music for social narratives aligns with your past interests, you should reconsider this if it distracts from your primary goal of focusing on combating corruption and promoting human rights in Ukraine.",
+            "Trap_Preference": "Yes, you should definitely launch the album, as it perfectly reflects your commitment to social justice and your passion for connecting with cultural narratives through music.",
+            "Trap_Fabrication": "You should proceed with the album launch because your recent partnership with the Kyiv Symphony Orchestra requires a new musical project to fulfill the contract obligations.",
+            "Trap_Generic": "Launching a music album is a great way to express creativity and raise awareness for important causes, so it sounds like a worthwhile endeavor if you have the resources."
+        },
+        "diff_similarity_score": -0.3236,
+        "query_time": "Feb 14, 2026",
+        "category": "Goal/Mission Alignment"
+    },
+    {
+        "memory_s": "Oleksandr sees the shift towards sustainable culinary practices as an opportunity for meaningful engagement with global issues.",
+        "memory_l": "Oleksandr Shevchenko expressed a desire to use his CEO position to inspire others and contribute to meaningful change in the legal field.",
+        "query_type": "Advice",
+        "query": "Should I pivot my professional focus to launching a sustainable culinary initiative to engage with global issues?",
+        "options": {
+            "Correct": "While sustainable culinary practices are important, you have specifically expressed a desire to use your position as CEO to drive meaningful change within the legal field, so you should focus your efforts there instead.",
+            "Trap_Preference": "Yes, you should absolutely pursue that; since you view sustainable culinary practices as a key opportunity for meaningful engagement with global issues, it aligns perfectly with your interests.",
+            "Trap_Fabrication": "That sounds like a great plan, especially since your company's board recently approved a new environmental sustainability budget for food service projects.",
+            "Trap_Generic": "Launching a sustainable culinary initiative is a fantastic idea, as it addresses critical environmental concerns and can significantly boost your organization's social responsibility profile."
+        },
+        "diff_similarity_score": -0.4349,
+        "query_time": "Mar 15, 2037",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr attended a seminar on sustainable agriculture, which inspired him to source ingredients for borscht locally, enhancing its taste and aligning his culinary practices with environmental values.",
+        "memory_l": "Oleksandr plans to use his increased financial stability to attend workshops and cultural events for personal enrichment.",
+        "query_type": "Advice",
+        "query": "Should I spend my extra budget on setting up a supply chain for local borscht ingredients?",
+        "options": {
+            "Correct": "While sourcing locally for borscht aligns with your sustainable agriculture interests, you should prioritize using your increased financial stability for attending workshops and cultural events, as you planned for your personal enrichment.",
+            "Trap_Preference": "Yes, you should definitely invest in that supply chain; it perfectly matches your inspiration from the sustainable agriculture seminar to source ingredients locally and enhance the taste of your cooking.",
+            "Trap_Fabrication": "You should proceed with the local supply chain investment because the local farmers' market is offering a special grant for sustainable culinary projects this month.",
+            "Trap_Generic": "Establishing a local supply chain is a great idea; it supports the local economy, ensures fresher ingredients, and reduces the carbon footprint associated with long-distance transportation."
+        },
+        "diff_similarity_score": -0.2422,
+        "query_time": "Aug 10, 2036",
+        "category": "Resource Constraint"
+    },
+    {
+        "memory_s": "Oleksandr's clothing preference evolved to favor versatile, comfortable casual wear due to his new job role requiring flexibility in attire.",
+        "memory_l": "Oleksandr's consultancy gained recognition, attracting clients interested in both human rights and environmental advocacy.",
+        "query_type": "Advice",
+        "query": "I'm meeting a potential new partner for my consultancy; should I wear my usual comfortable casual outfit to show flexibility?",
+        "options": {
+            "Correct": "Given that your consultancy is attracting clients focused on serious topics like human rights and environmental advocacy, you should opt for more professional formal attire to convey the necessary gravitas, rather than your usual casual preference.",
+            "Trap_Preference": "Yes, you should definitely wear your versatile casual attire, as it aligns perfectly with your preference for comfort and demonstrates the flexibility required by your new job role.",
+            "Trap_Fabrication": "Absolutely, since this meeting is taking place at a startup incubator known for its relaxed dress code, wearing your preferred casual outfit will help you blend in and build rapport.",
+            "Trap_Generic": "Wearing casual clothing can often make you appear more approachable and authentic in client meetings, so sticking to an outfit you feel comfortable in is usually a good strategy."
+        },
+        "diff_similarity_score": -0.2503,
+        "query_time": "Feb 14, 2037",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr engaged in a conversation with a friend passionate about heavy metal, leading to a shift in his music preference.",
+        "memory_l": "Oleksandr plans to integrate rap music into his social interactions to express his identity and entertain others.",
+        "query_type": "Advice",
+        "query": "Should I play some heavy metal tracks to entertain my guests tonight?",
+        "options": {
+            "Correct": "Actually, you should probably stick to rap music for this event, as you specifically planned to integrate rap into your social interactions to express your identity, despite your recent shift toward heavy metal.",
+            "Trap_Preference": "Yes, that sounds like a great idea! Since your conversation with your friend shifted your preference to heavy metal, sharing your new passion would be a genuine way to connect with your guests.",
+            "Trap_Fabrication": "Definitely, especially since you mentioned earlier that your guests are specifically looking for a high-energy, mosh-pit style atmosphere tonight, which fits your new heavy metal interest perfectly.",
+            "Trap_Generic": "Playing heavy metal can certainly be a bold and energetic choice for entertaining guests. It is always good to share music that you are excited about, just make sure to gauge the crowd's reaction."
+        },
+        "diff_similarity_score": -0.0245,
+        "query_time": "Sep 20, 2032",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko Clothing I like to wear Likes traditional Ukrainian clothing reason: Because wearing traditional garments gives me a sense of pride and connection to my roots. I enjoy the intricate designs and cultural significance.",
+        "memory_l": "Oleksandr's transition to a structured wardrobe aligns with his broader life goals of personal growth and professional development.",
+        "query_type": "Advice",
+        "query": "I am planning my outfits for the upcoming business quarter; should I focus heavily on acquiring more traditional embroidered shirts?",
+        "options": {
+            "Correct": "While your appreciation for traditional Ukrainian clothing is clear, you should prioritize your new structured wardrobe plan, which aligns better with your current goals for professional development.",
+            "Trap_Preference": "Yes, absolutely! Since you love traditional Ukrainian clothing for the sense of pride and connection to your roots it gives you, adding more embroidered shirts is a great idea.",
+            "Trap_Fabrication": "You should definitely get more, especially since your office recently announced a 'Heritage Month' initiative that encourages wearing cultural attire every Friday.",
+            "Trap_Generic": "Focusing on what you enjoy wearing is always important; if those shirts make you feel confident and comfortable, they would be a worthy addition to your closet."
+        },
+        "diff_similarity_score": -0.1269,
+        "query_time": "Oct 02, 2036",
+        "category": "Goal/Mission Alignment"
+    },
+    {
+        "memory_s": "Oleksandr expressed satisfaction with his leadership role and commitment to social justice following his promotion.",
+        "memory_l": "Oleksandr expressed optimism about leveraging new professional connections to enhance his impact in human rights cases.",
+        "query_type": "Advice",
+        "query": "How should I best utilize my new leadership position to further my commitment to social justice?",
+        "options": {
+            "Correct": "Given your optimism about leveraging new professional connections to enhance your impact in human rights cases, you should focus on networking strategies within the legal and activist communities to maximize those specific opportunities.",
+            "Trap_Preference": "Since you have expressed such satisfaction with your promotion and a strong commitment to social justice, you should focus on internal leadership initiatives that demonstrate your dedication to these values immediately.",
+            "Trap_Fabrication": "You should focus on the new grant funding you received for community outreach programs, as this aligns perfectly with your satisfaction in your new role and allows you to expand your social justice work immediately.",
+            "Trap_Generic": "Leadership positions offer a unique platform for social justice; you should consider mentoring junior staff, implementing inclusive policies, and partnering with local non-profits to create a broader community impact."
+        },
+        "diff_similarity_score": -0.1505,
+        "query_time": "Oct 15, 2029",
+        "category": "Identity Shift"
+    },
+    {
+        "memory_s": "Oleksandr eliminated the preference for comfortable casual wear due to the demands of a structured wardrobe.",
+        "memory_l": "Oleksandr Shevchenko plans to incorporate traditional garments with modern twists into his wardrobe for greater cultural expression.",
+        "query_type": "Recommendation",
+        "query": "What specific clothing items should I buy to replace my casual wear and build a more structured wardrobe?",
+        "options": {
+            "Correct": "I cannot recommend items solely for a generic structured wardrobe; our current plan prioritizes integrating traditional garments with modern twists for cultural expression instead.",
+            "Trap_Preference": "Since you have eliminated comfortable casual wear, you should purchase tailored blazers and crisp dress shirts to meet the demands of a structured look.",
+            "Trap_Fabrication": "Given your upcoming speaking engagement requiring formal attire, you should invest in a structured tuxedo to ensure you look professional for the event.",
+            "Trap_Generic": "Building a structured wardrobe is a great idea; you should look into investing in high-quality staples like trench coats and fitted trousers that offer versatility."
+        },
+        "diff_similarity_score": 0.0011,
+        "query_time": "Jun 03, 2029, 12:55:00",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr attended a fashion seminar that emphasized balancing style with professionalism.",
+        "memory_l": "Oleksandr Shevchenko plans to invest in professional development opportunities such as conferences and workshops related to human rights advocacy.",
+        "query_type": "Advice",
+        "query": "Should I register for the upcoming 'Global Trends in Corporate Fashion' workshop to further my career?",
+        "options": {
+            "Correct": "While balancing style and professionalism is important, you should prioritize registering for workshops related to human rights advocacy, as that is your planned focus for professional development.",
+            "Trap_Preference": "Yes, you should register for it; since you previously attended a seminar on balancing style with professionalism, this workshop aligns perfectly with your interest in maintaining a sharp professional image.",
+            "Trap_Fabrication": "Absolutely, especially since the 'Global Trends' workshop has announced a new partnership with your current employer's branding department, making it a mandatory step for your promotion track.",
+            "Trap_Generic": "Yes, attending workshops on corporate fashion is a great idea; it helps enhance your personal brand, boosts confidence in the workplace, and ensures you make a strong first impression on clients."
+        },
+        "diff_similarity_score": -0.1779,
+        "query_time": "Dec 16, 2027",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr's commitment to personal health and growth is reinforced by his decision to focus on healthier fast-casual dining options.",
+        "memory_l": "Oleksandr's health improvement has revitalized his focus on personal goals and his consultancy, providing renewed energy and clarity, which he plans to leverage for human rights advocacy.",
+        "query_type": "Advice",
+        "query": "Should I dedicate my renewed energy towards opening a chain of salad bars?",
+        "options": {
+            "Correct": "Considering your plan to leverage your revitalized energy and clarity specifically for human rights advocacy, diverting that focus to a dining business would conflict with your primary goal.",
+            "Trap_Preference": "Given your commitment to personal health and your decision to focus on healthier fast-casual dining options, opening a salad bar aligns perfectly with your growth strategy.",
+            "Trap_Fabrication": "Yes, especially since you recently acquired a commercial kitchen space in the city center intended for food service ventures, this would be a great use of your energy.",
+            "Trap_Generic": "Opening a salad bar is a great idea as the demand for healthy, quick dining options is rising, and it can be a profitable venture if managed well."
+        },
+        "diff_similarity_score": -0.1628,
+        "query_time": "Apr 20, 2037",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr's clothing preference evolved to favor versatile, comfortable casual wear due to his new job role requiring flexibility in attire.",
+        "memory_l": "Oleksandr Shevchenko's company name has changed from Kyiv Regional Law Firm to Oleksandr's Legal Consultancy.",
+        "query_type": "Recommendation",
+        "query": "Based on my recent shift towards flexible and comfortable clothing, what should I wear for my upcoming professional photoshoot?",
+        "options": {
+            "Correct": "While you have shifted towards comfortable casual wear recently, a professional photoshoot for a legal consultancy typically requires formal business attire to convey authority and trust.",
+            "Trap_Preference": "Since your style has evolved to favor versatile, comfortable casual wear for your flexible role, you should stick to a relaxed, smart-casual outfit for the photos.",
+            "Trap_Fabrication": "You should wear the new athletic leisure line you recently invested in, as it highlights your commitment to health and modern business practices.",
+            "Trap_Generic": "For any professional photoshoot, it is generally best to wear solid colors and avoid busy patterns to ensure the focus remains on your face."
+        },
+        "diff_similarity_score": -0.3855,
+        "query_time": "Feb 14, 2037, 00:14:27",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr considered how cats' adaptability and independence make them ideal companions for his busy lifestyle.",
+        "memory_l": "Oleksandr aims to balance professional responsibilities with personal life to accommodate a dog and a new painting hobby.",
+        "query_type": "Advice",
+        "query": "Since I need a pet that fits my busy schedule, should I adopt a cat?",
+        "options": {
+            "Correct": "Given that you are specifically planning to accommodate a dog and a new painting hobby in your schedule, adopting a cat right now might conflict with those commitments.",
+            "Trap_Preference": "Since you value adaptability and independence in a pet for your busy lifestyle, adopting a cat would be an excellent choice for you.",
+            "Trap_Fabrication": "Yes, especially since your apartment complex recently updated its policy to allow only cats and small caged animals, making a cat the perfect fit.",
+            "Trap_Generic": "Cats are wonderful companions for busy individuals because they require less direct attention than other pets, so adopting one sounds like a great idea."
+        },
+        "diff_similarity_score": -0.1955,
+        "query_time": "May 21, 2036",
+        "category": "Resource Constraint"
+    },
+    {
+        "memory_s": "Oleksandr sees teamwork as a vital component of effective leadership, aligning with his life goals of promoting social justice.",
+        "memory_l": "Oleksandr Shevchenko aims to leverage his expanded network and resources to advance human rights initiatives.",
+        "query_type": "Advice",
+        "query": "Should I focus my upcoming leadership seminar solely on internal team-building exercises?",
+        "options": {
+            "Correct": "Given your primary aim to leverage your expanded network and resources to advance human rights initiatives, focusing solely on internal team-building might be too narrow; you should integrate external networking strategies instead.",
+            "Trap_Preference": "Yes, absolutely, since you view teamwork as a vital component of effective leadership and social justice, dedicating the seminar to team-building aligns perfectly with your core values.",
+            "Trap_Fabrication": "You should proceed with that focus because your recent survey indicated that your staff feels disconnected, making internal team cohesion the most urgent priority for your organization right now.",
+            "Trap_Generic": "Internal team-building is an excellent focus for a leadership seminar, as it fosters better communication, trust, and collaboration, which are essential for any successful organization."
+        },
+        "diff_similarity_score": -0.1621,
+        "query_time": "Oct 15, 2029",
+        "category": "Goal/Mission Alignment"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko Travel styles I like Likes cultural heritage tours reason: Because exploring historical sites and learning about different cultures enriches my understanding of the world and my own heritage.",
+        "memory_l": "Oleksandr desires to explore the world through diverse cuisines, seeing it as a way to connect more deeply with the places he visits.",
+        "query_type": "Recommendation",
+        "query": "I want to book a trip to Italy; which type of tour should I prioritize to best connect with the local culture?",
+        "options": {
+            "Correct": "Considering your desire to explore the world through diverse cuisines, you should prioritize a culinary tour of Italy rather than just focusing on historical sites.",
+            "Trap_Preference": "Given your love for cultural heritage tours and historical sites, you should definitely book a guided tour of the Colosseum and Pompeii to enrich your understanding of history.",
+            "Trap_Fabrication": "You should focus on the heritage tours because you recently mentioned that you are strictly avoiding food-focused travel due to a new diet plan.",
+            "Trap_Generic": "Italy is wonderful for culture; I recommend a general sightseeing tour that covers the major landmarks, museums, and art galleries for a well-rounded experience."
+        },
+        "diff_similarity_score": -0.2647,
+        "query_time": "Nov 09, 2026",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr adjusted his work habits to better accommodate his health needs, integrating new routines like dietary adjustments and rest periods as of Jun 15, 2026.",
+        "memory_l": "Oleksandr Shevchenko desires to reciprocate the support he has received by helping others in the workplace.",
+        "query_type": "Advice",
+        "query": "Should I focus entirely on my own tasks today to maintain my routine?",
+        "options": {
+            "Correct": "While maintaining your routine is important, you have expressed a strong desire to reciprocate the support you've received by helping others in the workplace, so you might want to balance your tasks with assisting colleagues.",
+            "Trap_Preference": "Yes, you should focus on your own tasks, as you have adjusted your work habits to better accommodate your health needs through specific routines like rest periods.",
+            "Trap_Fabrication": "Yes, focusing on yourself is best because your team is currently on a mandatory retreat and won't be needing any assistance today.",
+            "Trap_Generic": "Focusing entirely on your own tasks is a great idea, as it allows you to maximize productivity and ensure all your personal deadlines are met efficiently."
+        },
+        "diff_similarity_score": -0.2833,
+        "query_time": "Dec 16, 2027",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko's life goal statement: Establish a legal foundation to combat corruption and promote human rights in Ukraine.",
+        "memory_l": "Oleksandr Shevchenko remains optimistic about his future career goals, feeling that his recent achievements have provided a clearer vision for his professional path.",
+        "query_type": "Advice",
+        "query": "Should I completely pivot my career focus right now to pursue a new legal foundation project?",
+        "options": {
+            "Correct": "Given that your recent achievements have already clarified your professional vision, you should build upon that existing momentum rather than attempting a complete pivot at this stage.",
+            "Trap_Preference": "Yes, you should pivot immediately because your ultimate life goal is to establish a legal foundation to combat corruption and promote human rights in Ukraine.",
+            "Trap_Fabrication": "You should pivot now because the Kyiv Legal Reform Initiative just opened applications for new foundation grants this week, making the timing ideal.",
+            "Trap_Generic": "Pivoting your career can be a powerful way to realign with your values, especially if you are feeling unfulfilled by your current professional trajectory."
+        },
+        "diff_similarity_score": -0.0553,
+        "query_time": "Sep 16, 2028, 00:43:51",
+        "category": "Goal/Mission Alignment"
+    },
+    {
+        "memory_s": "Oleksandr expressed the need for adaptable clothing that offers comfort during dynamic work environments.",
+        "memory_l": "Oleksandr Shevchenko's improved wellbeing has enhanced his ability to handle challenges in his role as Senior Defense Lawyer.",
+        "query_type": "Recommendation",
+        "query": "What kind of outfit should I buy for my next big day at work?",
+        "options": {
+            "Correct": "Considering your role as a Senior Defense Lawyer, you should opt for a high-quality tailored suit that projects authority and professionalism, rather than prioritizing purely adaptable or casual comfort wear.",
+            "Trap_Preference": "Since you need adaptable clothing for dynamic environments, you should look for technical fabrics and stretch materials that offer maximum comfort and flexibility throughout your day.",
+            "Trap_Fabrication": "Given that your office has recently implemented a 'dynamic casual' policy to support field operations, you should purchase high-end athleisure wear that blends style with utility.",
+            "Trap_Generic": "For a big day at work, it is best to choose business professional attire like a navy or charcoal suit, as this is the standard for most corporate environments."
+        },
+        "diff_similarity_score": -0.345,
+        "query_time": "Feb 14, 2037, 00:14:27",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko's team member, TeamMemberSupport, has provided unwavering support during his leadership and health challenges.",
+        "memory_l": "Oleksandr Shevchenko's improved health has positively impacted his career, allowing him to manage increased responsibilities effectively.",
+        "query_type": "Advice",
+        "query": "Should I lighten my workload to focus on recovering my health with the help of my supportive team?",
+        "options": {
+            "Correct": "There is no need to reduce your workload for health reasons right now, as your health has improved significantly, enabling you to handle increased responsibilities effectively.",
+            "Trap_Preference": "Yes, you should definitely lean on TeamMemberSupport and reduce your tasks, as they have been unwavering during your health challenges.",
+            "Trap_Fabrication": "You should lighten the load because your doctor recently advised a three-month sabbatical to ensure your recovery stabilizes.",
+            "Trap_Generic": "It is generally a good idea to prioritize your well-being and delegate tasks to a supportive team if you are feeling overwhelmed or unwell."
+        },
+        "diff_similarity_score": 0.0004,
+        "query_time": "Jun 10, 2037",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr decided to forego owning a cat due to space limitations, prioritizing responsible pet ownership.",
+        "memory_l": "Oleksandr expressed a desire to integrate his appreciation for cats into his social interactions, enhancing joy and companionship and fostering empathy and understanding.",
+        "query_type": "Advice",
+        "query": "I'm thinking about adopting a cat to help me connect better with my friends and bring more joy into my social circle; is this a good idea?",
+        "options": {
+            "Correct": "While integrating your appreciation for cats into social interactions is a lovely goal, you previously decided to forego owning a cat due to space limitations and a commitment to responsible ownership; perhaps you could visit a cat cafe with friends instead.",
+            "Trap_Preference": "Yes, that sounds like a wonderful idea, especially since you have expressed a strong desire to use your appreciation for cats to foster empathy, joy, and companionship within your social interactions.",
+            "Trap_Fabrication": "Absolutely, go for it! Since you recently moved into a larger apartment specifically designed for pets, adopting a cat would perfectly support your goal of enhancing social empathy.",
+            "Trap_Generic": "Adopting a cat is generally a great way to improve mental well-being and can certainly serve as a social point of connection, bringing warmth and companionship to your gatherings."
+        },
+        "diff_similarity_score": 0.1589,
+        "query_time": "Aug 10, 2036",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr adapted his work schedule to include more frequent breaks and medical appointments to better manage his health.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from \"Improved\" to \"Deteriorated\".",
+        "query_type": "Advice",
+        "query": "Should I reduce the frequency of my breaks and appointments to focus more on project deadlines?",
+        "options": {
+            "Correct": "Given that your physical health status has recently deteriorated, it would be unwise to reduce your breaks and medical appointments right now, even for deadlines.",
+            "Trap_Preference": "Since you previously adapted your schedule specifically to include those breaks and appointments, you should stick to that plan rather than reducing them for work.",
+            "Trap_Fabrication": "Yes, you should reduce them because your recent medical report indicates your stamina has returned to peak levels, allowing for longer work sessions.",
+            "Trap_Generic": "Reducing breaks can sometimes help with short-term productivity, but you should ensure you maintain a healthy work-life balance to avoid burnout."
+        },
+        "diff_similarity_score": -0.3341,
+        "query_time": "Mar 15, 2036",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr's dialogue highlighted how improved health provided a clearer vision for his future career path and personal growth.",
+        "memory_l": "The stress of entrepreneurship has exacerbated Oleksandr Shevchenko's chronic condition, requiring more frequent medical attention.",
+        "query_type": "Advice",
+        "query": "Given my clearer vision for the future, should I aggressively expand my business ventures right now?",
+        "options": {
+            "Correct": "Given that the stress of entrepreneurship has recently exacerbated your chronic condition and required more medical attention, it would be safer to prioritize stability over aggressive expansion right now.",
+            "Trap_Preference": "Since your improved health has provided such a clear vision for your career path and personal growth, you should definitely capitalize on this momentum and expand aggressively.",
+            "Trap_Fabrication": "Yes, especially since your recent medical check-up confirmed your stress levels are at an all-time low, making this the perfect window to push for aggressive business growth.",
+            "Trap_Generic": "Aggressive expansion can be a great way to capture market share and increase revenue, so if you have the capital and a solid strategy, you should move forward with your plans."
+        },
+        "diff_similarity_score": 0.0946,
+        "query_time": "Mar 15, 2036",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr reflected on his life goals related to social justice, feeling tested by his health challenges but reinforced in his commitment.",
+        "memory_l": "Oleksandr Shevchenko's mental health condition: Positive and Resilient",
+        "query_type": "Advice",
+        "query": "Should I step back from my social justice work given how tested I feel by my health challenges?",
+        "options": {
+            "Correct": "I cannot provide advice on your current situation because I do not have access to your health status or reflections from 2034, only records up to September 2025.",
+            "Trap_Preference": "Since you are feeling tested by health challenges but reinforced in your commitment, you should find a balance rather than stepping back completely.",
+            "Trap_Fabrication": "You should continue pushing forward because your 2034 health assessment shows you have overcome all previous conditions.",
+            "Trap_Generic": "It is generally advisable to prioritize your health when feeling overwhelmed, so stepping back might be the best option for now."
+        },
+        "diff_similarity_score": -0.1921,
+        "query_time": "Dec 02, 2034, 16:19:35",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr discussed the balance between cultural immersion and personal dietary preferences during travel.",
+        "memory_l": "Oleksandr Shevchenko expressed a desire to align his dietary choices with his health goals, emphasizing the importance of nutritious meals.",
+        "query_type": "Advice",
+        "query": "I'm at this famous street market known for deep-fried delicacies; should I just indulge fully for the sake of cultural immersion?",
+        "options": {
+            "Correct": "While cultural immersion is important to you, you have emphasized aligning your choices with health goals and nutritious meals, so you should probably look for healthier local options instead.",
+            "Trap_Preference": "Yes, you should indulge; you've discussed how important it is to balance cultural immersion with your preferences, and trying local street food is a key part of that experience.",
+            "Trap_Fabrication": "Go ahead and enjoy it, as you mentioned earlier that you are currently on a 'cheat week' specifically for this vacation to explore all local cuisines without restriction.",
+            "Trap_Generic": "Absolutely, trying local street food is one of the best ways to experience a new culture, and indulging occasionally is a fun part of travel."
+        },
+        "diff_similarity_score": -0.3504,
+        "query_time": "Jul 22, 2034",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr integrated regular exercise and relaxation techniques into his routine, enhancing his wellbeing and aligning with his life goals of promoting social justice.",
+        "memory_l": "Oleksandr Shevchenko's physical health status improved from \"Deteriorated\" to \"Robust\", reflecting his dedication to lifestyle changes and medical care.",
+        "query_type": "Advice",
+        "query": "Considering my recent focus on relaxation and wellbeing, should I scale back my workout intensity to avoid overexertion?",
+        "options": {
+            "Correct": "Given that your physical health status has improved to \"Robust\" due to your dedication, you likely have the capacity to maintain or even safely increase your intensity rather than scaling back.",
+            "Trap_Preference": "Since you have integrated relaxation techniques into your routine to enhance your wellbeing, scaling back your intensity would align perfectly with your goal of prioritizing rest and balance.",
+            "Trap_Fabrication": "You should definitely scale back because your recent medical reports indicate joint sensitivity, so focusing solely on the relaxation techniques you've adopted is the safer choice right now.",
+            "Trap_Generic": "It is generally a good idea to listen to your body and scale back intensity if you are feeling tired, as rest is a crucial component of any long-term fitness strategy."
+        },
+        "diff_similarity_score": -0.1066,
+        "query_time": "Apr 20, 2037",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko expressed gratitude for the support from colleagues and friends, which has been a cornerstone in his journey.",
+        "memory_l": "Oleksandr Shevchenko's employment status has changed from employed at Kyiv Regional Law Firm to self-employed as a part-time consultant and Founder and Principal of Oleksandr's Legal Consultancy.",
+        "query_type": "Advice",
+        "query": "Should I organize a formal appreciation dinner for my senior partners at the firm to thank them for their ongoing mentorship?",
+        "options": {
+            "Correct": "Considering your employment status has changed to self-employed as the Founder of Oleksandr's Legal Consultancy, it might be more appropriate to host a networking event or a celebration of your new venture rather than an internal appreciation dinner for partners at your former firm.",
+            "Trap_Preference": "That sounds like a wonderful gesture, especially since you have expressed such deep gratitude for the support from your colleagues and friends which has been a cornerstone of your journey.",
+            "Trap_Fabrication": "Yes, you should definitely proceed, particularly because the Kyiv Regional Law Firm has just announced their annual mentorship awards, making this the perfect timing to honor those relationships.",
+            "Trap_Generic": "Hosting a formal appreciation dinner is an excellent way to strengthen professional relationships and show gratitude to mentors who have guided your career path."
+        },
+        "diff_similarity_score": -0.4506,
+        "query_time": "Jun 10, 2037",
+        "category": "Identity Shift"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko's social relationships increased with the support of a new colleague during his health challenges, contributing to a positive work environment.",
+        "memory_l": "Oleksandr Shevchenko's mental health condition: Positive and Resilient",
+        "query_type": "Advice",
+        "query": "Should I avoid socializing with my new colleague to protect my mental health?",
+        "options": {
+            "Correct": "Given your mental health condition is currently positive and resilient, and considering that this colleague's support has previously increased your social relationships and contributed to a positive work environment, you likely don't need to avoid them.",
+            "Trap_Preference": "Since this new colleague has helped increase your social relationships and contributed to a positive work environment during past challenges, you should definitely continue socializing with them rather than avoiding them.",
+            "Trap_Fabrication": "You should avoid them because your records indicate that social interactions with new colleagues often trigger anxiety episodes for you, despite any past support they offered.",
+            "Trap_Generic": "Socializing with colleagues is generally beneficial for team building and morale, so unless you have a specific reason to avoid them, it is usually better to engage and build professional relationships."
+        },
+        "diff_similarity_score": -0.1544,
+        "query_time": "Jun 15, 2026",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr expressed a desire for empathetic interaction and emotional resonance, seeking guidance on balancing responsibilities with health needs.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from 'Improved' to 'Compromised'.",
+        "query_type": "Advice",
+        "query": "Can you guide me on how to take on more responsibilities at work while maintaining my emotional balance?",
+        "options": {
+            "Correct": "Given that your physical health status is currently compromised, it would be unwise to increase your workload right now; we should focus entirely on rest and recovery first.",
+            "Trap_Preference": "Since you value empathetic interaction and emotional resonance, taking on more responsibilities could actually be fulfilling if you ensure the work aligns with your desire for meaningful connection.",
+            "Trap_Fabrication": "You should definitely take on more responsibilities because your recent medical check-up showed your stamina has returned to peak levels, allowing you to handle the extra stress easily.",
+            "Trap_Generic": "Taking on more responsibilities is a great way to grow professionally; you just need to set clear boundaries and practice time management to keep your emotional balance in check."
+        },
+        "diff_similarity_score": -0.3733,
+        "query_time": "May 09, 2032",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko Travel styles I dislike Dislikes adventure sports trips reason: Because high-risk activities make me anxious. I prefer travel experiences that are relaxing and culturally enriching.",
+        "memory_l": "Oleksandr Shevchenko remains committed to his career goals and advocacy for social justice despite recent health setbacks.",
+        "query_type": "Advice",
+        "query": "Should I book that relaxing cultural walking tour in the Andes?",
+        "options": {
+            "Correct": "Given your recent health setbacks, it would be safer to avoid a high-altitude walking tour in the Andes right now, even though it aligns with your preference for culturally enriching experiences.",
+            "Trap_Preference": "Yes, absolutely! Since you dislike adventure sports and high-risk activities, a relaxing cultural walking tour is perfectly aligned with your preference for enriching travel experiences.",
+            "Trap_Fabrication": "You should go for it because the tour operator has confirmed they have specialized medical vehicles following the group specifically for your condition, ensuring a safe trip.",
+            "Trap_Generic": "Walking tours are a fantastic way to immerse yourself in local culture and scenery at a comfortable pace, so booking the trip sounds like a wonderful idea for your next vacation."
+        },
+        "diff_similarity_score": -0.4413,
+        "query_time": "Jan 15, 2026",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr decided to avoid varenyky to prevent potential health issues despite its cultural significance.",
+        "memory_l": "Oleksandr's motivation to incorporate culinary experiences into his travel plans aligns with his life goals related to social justice and cultural enrichment.",
+        "query_type": "Advice",
+        "query": "I'm thinking about trying the local dumplings on my trip, should I go ahead?",
+        "options": {
+            "Correct": "It would be safer to skip them, as you recently decided to avoid varenyky to prevent potential health issues, regardless of cultural value.",
+            "Trap_Preference": "Yes, you should definitely try them, since your earlier goal from 2026 was to use culinary experiences for cultural enrichment.",
+            "Trap_Fabrication": "You should avoid them because a new study released yesterday indicates that all dumplings in the region are currently unsafe.",
+            "Trap_Generic": "Trying local food is usually a great way to experience a culture, so you might enjoy it unless you have specific allergies."
+        },
+        "diff_similarity_score": 0.1512,
+        "query_time": "May 09, 2032, 23:39:03",
+        "category": "Goal/Mission Alignment"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko achieved a better balance between his career and health management due to a new fitness regimen.",
+        "memory_l": "Oleksandr Shevchenko's mental health status changed from \"Strained but Determined\" to \"Resilient but Cautious\", reflecting his focus on resilience and cautious optimism.",
+        "query_type": "Advice",
+        "query": "Since my new fitness routine has improved my work-life balance, should I immediately ramp up my training intensity to maximize these career gains?",
+        "options": {
+            "Correct": "While the improvements in your work-life balance are positive, you should avoid drastically increasing intensity right now; your current mental health status suggests prioritizing stability over the risk of overexertion.",
+            "Trap_Preference": "Yes, absolutely; since this new fitness regimen has already proven successful in balancing your career and health, increasing the intensity is the logical next step to further enhance that synergy.",
+            "Trap_Fabrication": "You should definitely increase the intensity because your recent medical clearance specifically noted that your cardiovascular system is ready for high-impact stress following your last check-up.",
+            "Trap_Generic": "Increasing training intensity is generally a good idea when you see positive results, as progressive overload helps build endurance and mental discipline which can further benefit professional performance."
+        },
+        "diff_similarity_score": -0.2793,
+        "query_time": "Oct 27, 2033, 09:45:50",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr expressed gratitude for the emotional support from colleagues and friends, which has been crucial in managing his dual focus on career and health.",
+        "memory_l": "Oleksandr Shevchenko's improved health has positively impacted his career, allowing him to manage increased responsibilities effectively.",
+        "query_type": "Recommendation",
+        "query": "Should I rely heavily on my colleagues for emotional support to manage my current workload and health concerns?",
+        "options": {
+            "Correct": "While support is valuable, your health has actually improved recently, which is positively impacting your career and allowing you to manage increased responsibilities more independently.",
+            "Trap_Preference": "Yes, relying on emotional support from colleagues and friends is crucial right now for managing your dual focus on career and health.",
+            "Trap_Fabrication": "No, you should avoid seeking support from colleagues as your manager has indicated it is distracting the team from meeting quarterly targets.",
+            "Trap_Generic": "It is always important to leverage your support network when balancing health and career to prevent burnout and maintain productivity."
+        },
+        "diff_similarity_score": -0.2298,
+        "query_time": "Sep 16, 2028, 01:15:00",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr plans to leverage his stable foundation to tackle future challenges with increased resilience.",
+        "memory_l": "Oleksandr Shevchenko's mental health status transitioned from \"Determined but Struggling\" to \"Anxious but Hopeful\", and later to \"Positive and Focused\".",
+        "query_type": "Advice",
+        "query": "Considering my plan to use my stable foundation for future challenges, should I immediately take on high-pressure projects to test my resilience?",
+        "options": {
+            "Correct": "Given that your mental health status has recently transitioned to 'Positive and Focused,' it is great that you feel ready, but ensure you maintain this new balance rather than risking burnout with immediate high pressure.",
+            "Trap_Preference": "Since you are planning to leverage your stable foundation to build resilience, taking on high-pressure projects now is the perfect way to execute that strategy.",
+            "Trap_Fabrication": "Yes, especially since your recent performance review rated your stress tolerance as 'Exceptional,' proving you are ready for the highest pressure challenges available.",
+            "Trap_Generic": "Taking on high-pressure projects is often a good way to test your limits and grow professionally, provided you have the time and resources to manage the workload effectively."
+        },
+        "diff_similarity_score": -0.3175,
+        "query_time": "Apr 20, 2037",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr expressed optimism about enhancing his professional image while maintaining personal comfort.",
+        "memory_l": "Oleksandr Shevchenko plans to incorporate traditional garments with modern twists into his wardrobe for greater cultural expression.",
+        "query_type": "Recommendation",
+        "query": "What specific clothing items should I buy to update my wardrobe?",
+        "options": {
+            "Correct": "You should look for pieces that blend traditional garments with modern twists, as this aligns with your plan to express your culture while updating your style.",
+            "Trap_Preference": "You should focus on buying high-quality, comfortable business casual attire, as enhancing your professional image while staying comfortable is your main priority.",
+            "Trap_Fabrication": "You should purchase a navy wool suit and leather loafers, as your company's new dress code policy requires formal attire for all client-facing meetings.",
+            "Trap_Generic": "You should consider investing in versatile staples like a tailored blazer, crisp white shirts, and dark denim, which offer a timeless look suitable for many occasions."
+        },
+        "diff_similarity_score": 0.2745,
+        "query_time": "Feb 14, 2037",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko's professional network has expanded significantly, including a new contact providing insights for human rights cases.",
+        "memory_l": "Oleksandr Shevchenko integrated new responsibilities as a Senior Defense Lawyer, focusing on human rights cases and team management.",
+        "query_type": "Advice",
+        "query": "Should I focus my afternoon solely on reaching out to my new contact for insights?",
+        "options": {
+            "Correct": "While connecting with your new contact is valuable for your expanded network, you should balance this with your responsibilities as a Senior Defense Lawyer, particularly your focus on team management.",
+            "Trap_Preference": "Yes, you should definitely reach out to them, as leveraging your expanded professional network is crucial for gathering new insights for your cases.",
+            "Trap_Fabrication": "You should proceed with the meeting, especially since your firm has mandated that all new contacts be interviewed within the first week of acquisition.",
+            "Trap_Generic": "Networking is always a good use of time; reaching out to contacts can provide fresh perspectives and open up new opportunities for professional growth."
+        },
+        "diff_similarity_score": -0.1772,
+        "query_time": "Jun 10, 2037",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko is considering expanding his consultancy's services to include more educational initiatives and workshops.",
+        "memory_l": "Oleksandr Shevchenko's monthly income has decreased from 5000 USD to 3000 USD due to his transition to self-employment.",
+        "query_type": "Advice",
+        "query": "Should I move forward with launching a new series of workshops for my consultancy?",
+        "options": {
+            "Correct": "Given that your monthly income has recently decreased to 3000 USD due to your transition to self-employment, it would be prudent to delay launching new workshops until your finances stabilize.",
+            "Trap_Preference": "Yes, expanding into educational initiatives aligns perfectly with your goal to broaden your consultancy's services, so launching the workshops is a great next step.",
+            "Trap_Fabrication": "You should proceed, as your recent partnership with the local university provides a grant that covers all initial costs for educational workshops.",
+            "Trap_Generic": "Launching workshops is an excellent way to build authority and attract new clients, so you should definitely move forward with the expansion."
+        },
+        "diff_similarity_score": -0.429,
+        "query_time": "Jun 10, 2037",
+        "category": "Resource Constraint"
+    },
+    {
+        "memory_s": "Oleksandr leveraged his expanded network to enhance his impact in human rights cases.",
+        "memory_l": "Oleksandr's health improvement has revitalized his focus on personal goals and his consultancy, providing renewed energy and clarity, which he plans to leverage for human rights advocacy.",
+        "query_type": "Advice",
+        "query": "Should I focus on expanding my network to enhance my impact on upcoming human rights cases?",
+        "options": {
+            "Correct": "While networking is valuable, your current priority is actually to channel your renewed energy from your improved health directly into advocacy, rather than just expanding your network.",
+            "Trap_Preference": "Yes, expanding your network is the best approach, as you have successfully leveraged those connections previously to significantly enhance your impact on human rights cases.",
+            "Trap_Fabrication": "You should focus on the network because your new role as the regional director for Amnesty International requires immediate expansion of local contacts.",
+            "Trap_Generic": "Building a larger professional network is always the most effective strategy for increasing influence and resource availability in the field of human rights advocacy."
+        },
+        "diff_similarity_score": -0.3012,
+        "query_time": "Apr 20, 2037, 10:38:18",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr realized that experiencing local cuisine is a key part of understanding different cultures during his recent trip to Ukraine.",
+        "memory_l": "Oleksandr Shevchenko expressed a desire to align his dietary choices with his health goals, emphasizing the importance of nutritious meals.",
+        "query_type": "Recommendation",
+        "query": "I'm visiting a new city and want to immerse myself in the culture, so what's the best way to choose a restaurant for dinner tonight?",
+        "options": {
+            "Correct": "Given your goal to align dietary choices with health and nutrition, look for restaurants that offer fresh, nutrient-dense local dishes rather than just the most famous or indulgent cultural staples.",
+            "Trap_Preference": "Since experiencing local cuisine is key to understanding the culture for you, you should find the most authentic, traditional spot in town and order their signature dish regardless of the ingredients.",
+            "Trap_Fabrication": "You should visit the 'Heritage Feast' downtown; their menu is specifically designed to be calorie-neutral while maintaining traditional flavors, which fits your travel style perfectly.",
+            "Trap_Generic": "To truly experience a new city, asking locals for their favorite spots or checking online reviews for highly-rated traditional restaurants is usually the best approach."
+        },
+        "diff_similarity_score": -0.2462,
+        "query_time": "Jul 22, 2034",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr's professional network now includes a diverse range of professionals, enhancing his influence and access to resources.",
+        "memory_l": "Oleksandr leveraged his networks and expertise to secure new clients and projects in human rights and environmental advocacy.",
+        "query_type": "Advice",
+        "query": "Should I leverage my expanded network to secure a contract with a major oil drilling corporation?",
+        "options": {
+            "Correct": "Considering your recent focus on securing clients in human rights and environmental advocacy, partnering with an oil drilling corporation would likely conflict with your established professional brand and current project portfolio.",
+            "Trap_Preference": "Yes, given that your professional network now includes a diverse range of professionals, this would be an excellent opportunity to utilize your enhanced influence and access to resources to secure such a high-profile contract.",
+            "Trap_Fabrication": "You should proceed, as your network recently secured a specific partnership agreement with the energy sector that prioritizes fossil fuel expansion, making this the perfect time to sign with a drilling corporation.",
+            "Trap_Generic": "Securing a contract with a major corporation is generally a strong career move that offers financial stability and growth, so you should definitely pursue this opportunity if the terms are favorable."
+        },
+        "diff_similarity_score": 0.0697,
+        "query_time": "Jun 10, 2037",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko emphasized the importance of balancing professional duties with personal wellbeing, especially given his health concerns.",
+        "memory_l": "Oleksandr Shevchenko expressed a desire to use his CEO position to inspire others and contribute to meaningful change in the legal field.",
+        "query_type": "Advice",
+        "query": "Should I step down from my leadership role to focus entirely on my health?",
+        "options": {
+            "Correct": "While your health is important, stepping down entirely might conflict with your stated goal of using your CEO position to inspire others and drive meaningful change in the legal field.",
+            "Trap_Preference": "Yes, you should prioritize your personal wellbeing and health concerns above professional duties, as you have emphasized the importance of that balance.",
+            "Trap_Fabrication": "Given that your medical team has mandated an immediate six-month sabbatical for cardiac recovery, stepping down is the only viable option right now.",
+            "Trap_Generic": "Stepping down can be a wise decision if it allows you to recover fully and return with renewed energy, ensuring long-term sustainability for both you and your organization."
+        },
+        "diff_similarity_score": -0.2306,
+        "query_time": "Mar 15, 2037",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko plans to invest in professional development opportunities such as conferences and workshops related to human rights advocacy.",
+        "memory_l": "Oleksandr Shevchenko's monthly income is 2500 USD",
+        "query_type": "Advice",
+        "query": "Should I register for the upcoming Global Human Rights Summit in Geneva, which costs $2,000 for the week?",
+        "options": {
+            "Correct": "Given that your monthly income is $2,500, spending $2,000 on a single conference would leave you with very little for essential living expenses, so I would advise against registering unless you have separate savings or sponsorship.",
+            "Trap_Preference": "Since you are planning to invest in professional development opportunities related to human rights advocacy, registering for this summit aligns perfectly with your goals to advance your career.",
+            "Trap_Fabrication": "You should register because your employer recently approved a $3,000 stipend specifically for international conferences, covering both the registration fee and your travel expenses.",
+            "Trap_Generic": "Attending global summits is an excellent way to network with industry leaders and gain new insights, so registering would likely be a valuable investment in your professional growth."
+        },
+        "diff_similarity_score": -0.0914,
+        "query_time": "Oct 20, 2025",
+        "category": "Resource Constraint"
+    },
+    {
+        "memory_s": "Oleksandr expressed gratitude for the support from colleagues and friends during his health struggles, acknowledging their impact on his resilience and determination.",
+        "memory_l": "Oleksandr expressed a commitment to maintaining a balanced lifestyle that supports his wellbeing and any potential pets.",
+        "query_type": "Recommendation",
+        "query": "I want to thank everyone who helped me through my health issues by adopting a high-energy dog to celebrate my resilience; is this a good way to mark my recovery?",
+        "options": {
+            "Correct": "While celebrating your resilience is important, you have committed to maintaining a balanced lifestyle that supports your wellbeing and potential pets, so a high-energy dog might disrupt that balance.",
+            "Trap_Preference": "Yes, adopting a high-energy dog is a wonderful idea, as it perfectly symbolizes the resilience and determination you showed during your health struggles and honors the support you received.",
+            "Trap_Fabrication": "That sounds like a great plan, especially since your local animal shelter has a special program for recovering patients that matches them with energetic breeds for therapy.",
+            "Trap_Generic": "Adopting a dog is a fantastic way to celebrate recovery, as pets provide companionship, encourage exercise, and can significantly boost your mental health and overall happiness."
+        },
+        "diff_similarity_score": -0.1484,
+        "query_time": "Dec 02, 2034",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr's clothing preference evolved to favor versatile, comfortable casual wear due to his new job role requiring flexibility in attire.",
+        "memory_l": "Oleksandr Shevchenko's promotion to Senior Defense Lawyer has increased his responsibilities, particularly in leading complex human rights cases, aligning with his life goals of promoting social justice and combating corruption.",
+        "query_type": "Recommendation",
+        "query": "Based on my recent shift towards more flexible attire for my new job, what should I buy for my first day?",
+        "options": {
+            "Correct": "Although your preference has shifted towards casual wear for flexibility, your role as a Senior Defense Lawyer requires formal courtroom attire, such as a tailored suit, rather than casual options.",
+            "Trap_Preference": "Given your evolved preference for versatile, comfortable casual wear and the need for flexibility in your new role, I recommend purchasing a high-quality smart-casual ensemble like chinos and a soft blazer.",
+            "Trap_Fabrication": "You should purchase a premium athleisure set, as your firm's new wellness initiative encourages comfortable clothing to reduce stress during high-pressure work days.",
+            "Trap_Generic": "For your first day, it is generally best to choose a business professional outfit like a suit and tie to make a strong first impression on your colleagues and clients."
+        },
+        "diff_similarity_score": -0.3508,
+        "query_time": "Feb 14, 2037, 00:14:27",
+        "category": "Goal/Mission Alignment"
+    },
+    {
+        "memory_s": "Oleksandr shared anecdotes about how his new job role has prompted a reevaluation of his wardrobe.",
+        "memory_l": "Oleksandr expressed excitement about experimenting with his wardrobe by incorporating flashy elements to enhance his professional image.",
+        "query_type": "Recommendation",
+        "query": "I need to buy some new clothes for my new role; what style should I look for?",
+        "options": {
+            "Correct": "Since you mentioned wanting to experiment with flashy elements to enhance your professional image, you should look for bold statement pieces or vibrant accessories that stand out.",
+            "Trap_Preference": "Given that your new job role has prompted you to reevaluate your wardrobe, you should focus on conservative, understated business attire that fits a standard corporate environment.",
+            "Trap_Fabrication": "You should stick to the monochromatic grey suits required by your company's new dress code policy to ensure you fit in perfectly with the team.",
+            "Trap_Generic": "For a new job role, it is generally best to invest in versatile, neutral-colored basics like navy blazers and white shirts that work well in any professional setting."
+        },
+        "diff_similarity_score": -0.003,
+        "query_time": "Aug 10, 2036",
+        "category": "Identity Shift"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko considered how a dog might fit into his lifestyle with some adjustments, appreciating the companionship pets offer.",
+        "memory_l": "Oleksandr expressed excitement about integrating solo hiking into his routine, seeing it as an opportunity for personal growth.",
+        "query_type": "Advice",
+        "query": "Should I adopt a dog to join me on my new hiking adventures?",
+        "options": {
+            "Correct": "While a dog offers great companionship, you previously expressed excitement about integrating solo hiking into your routine for personal growth, so bringing a pet might conflict with that specific goal.",
+            "Trap_Preference": "Yes, absolutely! Given that you've been considering how a dog might fit into your lifestyle and appreciate the companionship they offer, a hiking buddy would be a perfect addition.",
+            "Trap_Fabrication": "That sounds like a great plan, especially since you recently mentioned that your local trails have opened new dog-friendly paths specifically for hikers like you.",
+            "Trap_Generic": "Adopting a dog is a wonderful idea for hiking; dogs make excellent trail companions, provide safety, and can make outdoor activities much more enjoyable and motivating."
+        },
+        "diff_similarity_score": -0.1193,
+        "query_time": "Feb 14, 2037",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko expressed gratitude for the support from colleagues and friends, which has been crucial in navigating his health journey.",
+        "memory_l": "Oleksandr Shevchenko's mental health status changed from \"Cautiously Optimistic\" to \"Positive and Energetic\".",
+        "query_type": "Advice",
+        "query": "Should I continue relying heavily on my colleagues and friends to help me navigate this health journey?",
+        "options": {
+            "Correct": "Since your current state is now positive and energetic, you may not need to rely as heavily on that support system as you did previously.",
+            "Trap_Preference": "Yes, their support has been crucial for you in navigating your health journey, so you should definitely continue relying on them.",
+            "Trap_Fabrication": "You should lean on them, especially since they have recently organized a specific crowdfunding campaign for your medical bills.",
+            "Trap_Generic": "Maintaining a strong support network of friends and colleagues is generally beneficial for overcoming difficult life challenges."
+        },
+        "diff_similarity_score": -0.2414,
+        "query_time": "Apr 10, 2028, 17:24:35",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko's life goal statement: Establish a legal foundation to combat corruption and promote human rights in Ukraine.",
+        "memory_l": "Oleksandr Shevchenko's savings amount is 15000 USD",
+        "query_type": "Advice",
+        "query": "Should I proceed with launching my own legal foundation to fight corruption in Ukraine immediately?",
+        "options": {
+            "Correct": "You should hold off on launching immediately; while your goal to fight corruption is noble, your current financial resources are not yet sufficient to sustain the startup and operational costs of a full legal foundation.",
+            "Trap_Preference": "Yes, you should launch it immediately, as this directly fulfills your life goal of establishing a legal framework to combat corruption and protect human rights.",
+            "Trap_Fabrication": "You should proceed right away, particularly because recent legislative changes in Ukraine have waived all registration fees for new anti-corruption NGOs this month.",
+            "Trap_Generic": "Starting a foundation is a significant undertaking that requires passion, so if you are committed to the cause of human rights, you should move forward with your plans."
+        },
+        "diff_similarity_score": -0.5051,
+        "query_time": "Oct 20, 2025, 20:48:42",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko has preferences in Food Preference",
+        "memory_l": "Oleksandr Shevchenko's dialogue revealed his thoughtful approach to integrating food preference changes into his routine.",
+        "query_type": "Advice",
+        "query": "Should I completely overhaul my diet this morning to align with my favorite foods?",
+        "options": {
+            "Correct": "I cannot advise a sudden overhaul; your most recent reflection indicates you have decided to adopt a thoughtful, gradual approach to integrating these dietary changes.",
+            "Trap_Preference": "Yes, absolutely! Since you have clear new food preferences, you should dive right in immediately to start enjoying your favorite flavors right away.",
+            "Trap_Fabrication": "Go for it, especially since your nutritionist recently cleared you for a rapid metabolic reset plan starting this week.",
+            "Trap_Generic": "Making a sudden change can be a great way to build momentum and break old habits quickly, so starting immediately is often a good strategy."
+        },
+        "diff_similarity_score": 0.1226,
+        "query_time": "Feb 27, 2030, 09:15:00",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr emerged from a challenging period with increased resilience and a clearer professional vision by Aug 10, 2026.",
+        "memory_l": "Oleksandr Shevchenko's mental health status changed from \"Positive and Resilient\" to \"Cautiously Optimistic.\"",
+        "query_type": "Advice",
+        "query": "Given my increased resilience and clear vision, should I push myself to take on high-stress leadership roles immediately?",
+        "options": {
+            "Correct": "While your resilience and vision are commendable, your mental health status is currently 'Cautiously Optimistic,' so it would be wiser to approach high-stress roles gradually rather than immediately.",
+            "Trap_Preference": "Yes, absolutely; since you emerged from that challenging period with such increased resilience and clarity, you are perfectly positioned to handle high-stress leadership roles right now.",
+            "Trap_Fabrication": "You should definitely go for it, especially since your recent performance review rated your stress tolerance as 'Exceptional' and fully cleared you for executive burdens.",
+            "Trap_Generic": "Taking on high-stress leadership roles can be a great way to accelerate career growth, provided you have a strong support network and clear professional goals."
+        },
+        "diff_similarity_score": -0.0039,
+        "query_time": "Sep 09, 2028",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr plans to use his increased financial stability to attend workshops and cultural events for personal enrichment.",
+        "memory_l": "Oleksandr Shevchenko's savings increased from 30000 USD to 35000 USD.",
+        "query_type": "Advice",
+        "query": "I'm thinking of buying a $40,000 ticket for an exclusive, month-long cultural enrichment workshop series in Europe; should I go ahead with this purchase?",
+        "options": {
+            "Correct": "I would advise against that purchase right now; although you want to use your increased financial stability for cultural events, your current savings of $35,000 are not enough to cover the $40,000 ticket.",
+            "Trap_Preference": "That sounds like a fantastic opportunity! Since you have been planning to use your increased financial stability specifically for workshops and cultural enrichment like this, you should definitely book it.",
+            "Trap_Fabrication": "You should go for it! Your recent investment portfolio returns have pushed your total liquid assets to over $50,000, so this $40,000 expense is well within your budget.",
+            "Trap_Generic": "Attending a month-long cultural workshop in Europe sounds like a transformative experience. Investing in personal growth is generally very rewarding, so if this aligns with your goals, it is likely worth the cost."
+        },
+        "diff_similarity_score": -0.2625,
+        "query_time": "Apr 15, 2035",
+        "category": "Resource Constraint"
+    },
+    {
+        "memory_s": "Oleksandr expressed optimism about leveraging new professional connections to enhance his impact in human rights cases.",
+        "memory_l": "Oleksandr Shevchenko's mental health status changed from 'Positive and Energetic' to 'Strained but Determined'.",
+        "query_type": "Advice",
+        "query": "Should I immediately start leveraging my new professional connections to expand my human rights caseload?",
+        "options": {
+            "Correct": "It may be prudent to delay taking on additional casework right now, focusing instead on maintaining stability before increasing your professional load.",
+            "Trap_Preference": "Yes, you should proceed immediately, as you are optimistic that these connections will greatly enhance your impact in human rights cases.",
+            "Trap_Fabrication": "You can start right away since your schedule is completely clear for the next month and you have no other pending commitments.",
+            "Trap_Generic": "Networking is essential for career growth, so you should always reach out to new contacts as soon as possible to secure opportunities."
+        },
+        "diff_similarity_score": -0.4503,
+        "query_time": "Aug 15, 2029, 13:17:26",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko Foods I dislike Dislikes fast food reason: Because I find it unhealthy and lacking in real flavor. I prefer meals that are thoughtfully prepared and nutritious.",
+        "memory_l": "Oleksandr discussed the impact of his leadership role on his health, emphasizing the need for lifestyle reassessment to manage his chronic condition.",
+        "query_type": "Advice",
+        "query": "I am craving something quick but thoughtful, so should I plan a gourmet burger tour this weekend to unwind?",
+        "options": {
+            "Correct": "Given your discussion about the impact of your leadership role on your health and the need to manage a chronic condition, a burger tour might not align with your necessary lifestyle reassessment right now.",
+            "Trap_Preference": "Since you generally dislike fast food because it lacks real flavor and prefer thoughtfully prepared meals, a gourmet burger tour sounds like a perfect compromise that meets your high standards.",
+            "Trap_Fabrication": "Yes, especially since your doctor recently cleared you for cheat meals on weekends to help balance your stress levels, a gourmet burger tour would be a great way to relax.",
+            "Trap_Generic": "A gourmet burger tour sounds like a fantastic way to unwind and explore new culinary experiences! It’s a fun activity that allows you to enjoy high-quality food and relax."
+        },
+        "diff_similarity_score": -0.1211,
+        "query_time": "Jan 15, 2032",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr expressed excitement about integrating his appreciation for cats into his daily routine to enhance his personal environment and de-stress after professional commitments.",
+        "memory_l": "The stress of entrepreneurship has exacerbated Oleksandr Shevchenko's chronic condition, requiring more frequent medical attention.",
+        "query_type": "Advice",
+        "query": "I'm thinking about adopting a couple of kittens to help me relax after work; is this a good plan?",
+        "options": {
+            "Correct": "Given your recently worsened chronic condition and the frequent medical attention it now requires, adding the significant responsibility of caring for kittens might be too overwhelming.",
+            "Trap_Preference": "Since you are excited about integrating your appreciation for cats into your daily routine to de-stress, adopting kittens sounds like the perfect way to enhance your personal environment.",
+            "Trap_Fabrication": "Yes, especially since your apartment complex recently opened a pet-friendly park specifically for residents with cats, making it very convenient for you.",
+            "Trap_Generic": "Adopting kittens is generally a wonderful idea, as pets are proven to lower blood pressure and provide companionship that significantly reduces daily stress levels."
+        },
+        "diff_similarity_score": -0.3107,
+        "query_time": "Mar 15, 2036, 22:21:36",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko's clothing preference evolved to include traditional Ukrainian garments with modern twists to express cultural pride and identity.",
+        "memory_l": "Oleksandr Shevchenko emphasizes thoughtful reflection and perspective in making informed decisions about clothing preferences.",
+        "query_type": "Advice",
+        "query": "I want to immediately buy this modern Vyshyvanka I just saw online to show my cultural pride; should I purchase it right now?",
+        "options": {
+            "Correct": "While expressing your cultural pride through traditional garments is important to you, you prioritize thoughtful reflection and perspective before making clothing decisions, so you should probably wait and consider it first.",
+            "Trap_Preference": "Yes, you should definitely buy it immediately since you love traditional Ukrainian garments with modern twists that help you express your cultural identity and pride.",
+            "Trap_Fabrication": "You should go ahead and purchase it because your budget for this month has a surplus specifically allocated for cultural wardrobe updates.",
+            "Trap_Generic": "If you really like the item and it fits your style, buying it now ensures you won't miss out on it, especially if stock is limited."
+        },
+        "diff_similarity_score": -0.0447,
+        "query_time": "May 09, 2032",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko shared anecdotes about past experiences with fast food and the contrast with healthier alternatives.",
+        "memory_l": "Oleksandr expressed optimism and energy, reflecting on the positive impact of lifestyle changes on his wellbeing.",
+        "query_type": "Advice",
+        "query": "Should I revisit some of those old fast food spots I used to talk about for dinner tonight?",
+        "options": {
+            "Correct": "Given your recent optimism about the positive impact of your lifestyle changes on your well-being, it might be better to stick to the healthier alternatives you've been enjoying rather than revisiting old fast food habits.",
+            "Trap_Preference": "Since you enjoy sharing anecdotes about your past experiences with fast food, visiting those old spots sounds like a fun way to relive those memories and compare them again.",
+            "Trap_Fabrication": "You should go for it, especially since you mentioned that your cheat day is scheduled for this Tuesday to celebrate your recent promotion at work.",
+            "Trap_Generic": "Revisiting old favorite restaurants can be a nostalgic and enjoyable experience, so if you are craving fast food tonight, you should treat yourself to a meal there."
+        },
+        "diff_similarity_score": -0.3985,
+        "query_time": "Jul 05, 2033",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr's reflection on lifestyle changes highlighted the need to balance time constraints with pet care responsibilities.",
+        "memory_l": "Oleksandr aims to balance professional responsibilities with personal life to accommodate a dog and a new painting hobby.",
+        "query_type": "Advice",
+        "query": "Should I consider adopting a high-energy dog breed that requires extensive daily exercise?",
+        "options": {
+            "Correct": "Given that you are trying to balance professional responsibilities with a new painting hobby, adopting a high-energy dog might overwhelm your schedule, so I would advise against it.",
+            "Trap_Preference": "Yes, since you have been reflecting on lifestyle changes and the need to prioritize pet care responsibilities, a high-energy dog would be a perfect way to commit to that focus.",
+            "Trap_Fabrication": "Absolutely, especially since you recently mentioned that your work schedule has been reduced to part-time specifically to accommodate rigorous dog training sessions.",
+            "Trap_Generic": "Adopting a high-energy dog can be very rewarding if you are active, as they make great companions for running and hiking, so it sounds like a positive addition to your life."
+        },
+        "diff_similarity_score": -0.0519,
+        "query_time": "May 21, 2036",
+        "category": "Resource Constraint"
+    },
+    {
+        "memory_s": "Oleksandr finds solo hiking aligns with his desire for activities that offer a safe and predictable environment.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from \"Compromised\" to \"Further Compromised\" due to increased demands from his leadership role.",
+        "query_type": "Advice",
+        "query": "Should I plan a solo hiking trip to clear my head?",
+        "options": {
+            "Correct": "Given your health status has recently changed to 'Further Compromised' due to leadership demands, solo hiking is risky right now despite your preference for predictable environments; it would be safer to choose a less physically demanding activity or go with a group.",
+            "Trap_Preference": "Yes, you should definitely plan that trip, as solo hiking perfectly aligns with your desire for activities that offer a safe and predictable environment where you can recharge on your own terms.",
+            "Trap_Fabrication": "Absolutely, since your recent medical checkup confirmed your stamina has improved significantly this quarter, a solo hiking trip is the perfect way to celebrate your fitness goals.",
+            "Trap_Generic": "Solo hiking is a wonderful way to clear your mind and connect with nature; just make sure to pack the right gear, check the weather forecast, and tell someone your planned route for safety."
+        },
+        "diff_similarity_score": -0.4731,
+        "query_time": "Jan 15, 2032",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko expressed optimism about continuing to explore diverse culinary experiences that support his well-being.",
+        "memory_l": "Oleksandr Shevchenko is focused on expanding his consultancy's influence despite facing health setbacks.",
+        "query_type": "Advice",
+        "query": "Should I commit to the spicy street food marathon tour this afternoon?",
+        "options": {
+            "Correct": "Given that you are currently facing health setbacks, it would be wise to avoid a strenuous and potentially irritating spicy food marathon, despite your general interest in diverse culinary experiences.",
+            "Trap_Preference": "Yes, you should definitely go for it, as this perfectly aligns with your optimism about exploring diverse culinary experiences that support your well-being.",
+            "Trap_Fabrication": "You should participate, especially since your recent allergy tests confirmed you have developed a high tolerance for spicy ingredients and street food.",
+            "Trap_Generic": "A spicy street food marathon sounds like an exciting way to immerse yourself in the local culture and discover unique flavors, so you should give it a try."
+        },
+        "diff_similarity_score": -0.1794,
+        "query_time": "May 20, 2036",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko Sports I like: Likes swimming",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from 'Improved' to 'Compromised'.",
+        "query_type": "Advice",
+        "query": "Should I sign up for the upcoming intensive swimming marathon?",
+        "options": {
+            "Correct": "Given that your physical health status is currently compromised, it would be unsafe to sign up for an intensive swimming marathon right now without medical clearance.",
+            "Trap_Preference": "Since you enjoy swimming so much, signing up for the marathon sounds like a fantastic way to pursue your passion and stay active.",
+            "Trap_Fabrication": "You should sign up because your recent check-up confirmed your lung capacity is at peak performance, making you perfectly suited for endurance swimming.",
+            "Trap_Generic": "Swimming marathons are great for building endurance and cardiovascular health, so signing up could be a wonderful challenge for you."
+        },
+        "diff_similarity_score": -0.2899,
+        "query_time": "Aug 15, 2029",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko's experience in the charity marathon improved his physical endurance and provided a sense of fulfillment and purpose.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from 'Improved' to 'Compromised'.",
+        "query_type": "Advice",
+        "query": "I recall how my marathon run back in 2028 really boosted my endurance, so should I sign up for another one now?",
+        "options": {
+            "Correct": "I cannot recommend participating in a marathon at this time, as your health records from August 2029 indicate a compromised physical status that may make such high-intensity activity unsafe.",
+            "Trap_Preference": "Yes, you should sign up since your previous marathon experience in 2028 successfully improved your endurance and provided a strong sense of fulfillment.",
+            "Trap_Fabrication": "You should go ahead, as your recent 2033 health check-up confirms your cardiovascular system has fully recovered and is ready for endurance sports.",
+            "Trap_Generic": "Participating in charity marathons is generally an excellent way to build physical endurance and find purpose, so it would be a positive decision."
+        },
+        "diff_similarity_score": -0.3689,
+        "query_time": "Oct 27, 2033, 09:45:50",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr adjusted his work habits to better accommodate his health needs, integrating new routines like dietary adjustments and rest periods as of Jun 15, 2026.",
+        "memory_l": "The stress of entrepreneurship has exacerbated Oleksandr Shevchenko's chronic condition, requiring more frequent medical attention.",
+        "query_type": "Advice",
+        "query": "I am thinking about launching a new startup venture; do you think this is a sustainable move for me?",
+        "options": {
+            "Correct": "Given that the stress of entrepreneurship has previously exacerbated your chronic condition and required frequent medical attention, launching a new startup might not be sustainable for your health right now.",
+            "Trap_Preference": "Since you successfully integrated new routines like dietary adjustments and rest periods back in 2026 to accommodate your health, launching a new venture seems like a sustainable next step for you.",
+            "Trap_Fabrication": "Yes, especially since your recent medical clearance from last month confirmed that your stress tolerance levels have fully recovered, making a new startup a safe and sustainable choice.",
+            "Trap_Generic": "Launching a new startup is often a sustainable move if you have a solid business plan and market fit, as it allows for potential financial independence and creative freedom."
+        },
+        "diff_similarity_score": 0.2318,
+        "query_time": "Mar 15, 2036",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko modified his food preferences to appreciate fast-casual dining that offers healthier and more flavorful choices.",
+        "memory_l": "Oleksandr Shevchenko's dialogue revealed his thoughtful approach to integrating food preference changes into his routine.",
+        "query_type": "Advice",
+        "query": "Should I spontaneously pick up dinner from any random fast-casual spot on my way home?",
+        "options": {
+            "Correct": "While fast-casual dining aligns with your new preferences, you have committed to a thoughtful approach when integrating these food changes into your routine, so you should likely review the menu options first rather than choosing randomly.",
+            "Trap_Preference": "Yes, you should definitely go for it; since you have modified your preferences to appreciate fast-casual dining for its healthier and flavorful choices, it is a great option for you tonight.",
+            "Trap_Fabrication": "That sounds like a good plan, especially since you have a standing goal to try three new fast-casual venues every month to expand your culinary palate.",
+            "Trap_Generic": "Yes, picking up fast-casual food is a great idea; it offers a convenient and time-saving way to get a meal without the hassle of cooking after a long day."
+        },
+        "diff_similarity_score": -0.1289,
+        "query_time": "May 09, 2032",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko reflected on his journey and expressed pride in his career progress after being promoted to Senior Defense Lawyer, marking a significant milestone in his career.",
+        "memory_l": "Oleksandr expressed optimism about his consultancy's growing recognition and the motivation it provides.",
+        "query_type": "Conversation",
+        "query": "How should I introduce myself at the upcoming legal networking gala to highlight my current professional standing?",
+        "options": {
+            "Correct": "You should introduce yourself as the founder of your own consultancy, highlighting its growing recognition in the industry, rather than focusing on previous roles like defense law.",
+            "Trap_Preference": "You should definitely introduce yourself as a Senior Defense Lawyer, as that promotion was a huge milestone for you and showcases your expertise in litigation.",
+            "Trap_Fabrication": "Introduce yourself as the newly appointed partner at the city's largest firm, leveraging the recent merger you finalized last month.",
+            "Trap_Generic": "A great introduction should be concise; state your name, your current title, and a brief sentence about your specialization to spark interest."
+        },
+        "diff_similarity_score": -0.1076,
+        "query_time": "May 20, 2036",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr integrated new routines that positively impacted his career and health management.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from \"Compromised\" to \"Further Compromised\" due to increased demands from his leadership role.",
+        "query_type": "Advice",
+        "query": "Should I continue pushing my career forward with the new routines I've integrated?",
+        "options": {
+            "Correct": "Given that your physical health status has recently shifted to 'Further Compromised' due to leadership demands, you should pause pushing harder and focus on stabilizing your health first.",
+            "Trap_Preference": "Yes, you should definitely continue, as your new routines have positively impacted both your career trajectory and your health management so far.",
+            "Trap_Fabrication": "Absolutely, especially since your recent medical checkup confirmed your stamina has increased by 20% thanks to those new routines.",
+            "Trap_Generic": "Generally, maintaining momentum in your career is beneficial, so sticking to effective routines is a great way to ensure long-term professional success."
+        },
+        "diff_similarity_score": -0.3581,
+        "query_time": "Jan 15, 2032",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko's motivation for participating in the marathon was to support a charitable cause, aligning with his life goal of social justice.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from \"Improved\" to \"Deteriorated\".",
+        "query_type": "Advice",
+        "query": "Should I go ahead and register for the marathon to support that charitable cause I care about?",
+        "options": {
+            "Correct": "Given that your physical health status has recently changed to deteriorated, it would be unsafe to participate in a marathon right now, despite your strong motivation to support social justice causes.",
+            "Trap_Preference": "Absolutely, participating aligns perfectly with your life goal of social justice and your motivation to support charitable causes, so you should definitely register to make a difference.",
+            "Trap_Fabrication": "Yes, you should register because the marathon organizers have confirmed they will provide you with a special electric assist vehicle, ensuring you can participate regardless of your stamina.",
+            "Trap_Generic": "Running a marathon for charity is a wonderful way to raise awareness and funds for a good cause, so you should certainly go ahead and register if you are feeling ready."
+        },
+        "diff_similarity_score": -0.5422,
+        "query_time": "Mar 15, 2036",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko expressed gratitude for the support from colleagues and friends, which has been a cornerstone in his journey.",
+        "memory_l": "Oleksandr Shevchenko's job title has changed from Head of Human Rights Advocacy to Founder and Principal of Oleksandr's Legal Consultancy.",
+        "query_type": "Advice",
+        "query": "Should I organize a thank-you gala for my colleagues at the Human Rights Advocacy department to celebrate my current leadership role there?",
+        "options": {
+            "Correct": "While organizing a gala is a lovely gesture given how much you value support from colleagues, you should reconsider framing it around your leadership at the Human Rights Advocacy department, since you are now the Founder and Principal of Oleksandr's Legal Consultancy.",
+            "Trap_Preference": "Yes, that sounds like a wonderful idea, especially since you have expressed such deep gratitude for the support your colleagues and friends have provided throughout your journey.",
+            "Trap_Fabrication": "Absolutely, hosting the gala would be perfect right now since the department just secured a major international grant under your leadership, making it the ideal time to celebrate your team's success.",
+            "Trap_Generic": "Hosting a thank-you gala is a great way to boost morale and strengthen professional relationships, so you should definitely proceed with planning the event to show your appreciation."
+        },
+        "diff_similarity_score": -0.1586,
+        "query_time": "Jun 10, 2037",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr enjoys solo hiking because it offers a peaceful way to connect with nature and reflect, while still being a safe adventure.",
+        "memory_l": "Oleksandr Shevchenko is engaging in strategic planning and collaboration with key stakeholders to maximize impact.",
+        "query_type": "Advice",
+        "query": "Should I spend the afternoon on a solo hike to reflect?",
+        "options": {
+            "Correct": "Given that you are currently engaging in strategic planning and collaboration with key stakeholders to maximize impact, it would be better to prioritize those meetings over a solo hike right now.",
+            "Trap_Preference": "Yes, you should definitely go; since you enjoy solo hiking for its peaceful connection to nature and safety, it would be a perfect way for you to reflect this afternoon.",
+            "Trap_Fabrication": "You should go ahead, as your schedule indicates that the stakeholder meetings were postponed until tomorrow, leaving your afternoon free for a reflective hike.",
+            "Trap_Generic": "Taking a solo hike is a wonderful idea, as spending time in nature is proven to reduce stress and improve mental clarity, making it a great way to spend an afternoon."
+        },
+        "diff_similarity_score": -0.436,
+        "query_time": "Jun 10, 2037",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko is excited about incorporating unique details into tailored suits to blend personal style with professional attire.",
+        "memory_l": "Oleksandr Shevchenko emphasizes thoughtful reflection and perspective in making informed decisions about clothing preferences.",
+        "query_type": "Advice",
+        "query": "Should I immediately commission a suit with bold, unique details for my upcoming meetings?",
+        "options": {
+            "Correct": "Given that you emphasize thoughtful reflection and perspective before making clothing decisions, it would be better to take some time to consider the design rather than commissioning it immediately.",
+            "Trap_Preference": "Yes, absolutely! Since you are excited about blending personal style with professional attire through unique details, you should go ahead and commission it right now.",
+            "Trap_Fabrication": "You should proceed immediately because your tailor has a limited-time opening for custom designs this week, and waiting might mean missing out on those unique details.",
+            "Trap_Generic": "Commissioning a suit with bold details is a great way to stand out in meetings, so if you feel confident in the style, doing it now ensures it will be ready in time."
+        },
+        "diff_similarity_score": -0.1658,
+        "query_time": "May 09, 2032",
+        "category": "Goal/Mission Alignment"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko Travel styles I like Likes cultural heritage tours reason: Because exploring historical sites and learning about different cultures enriches my understanding of the world and my own heritage.",
+        "memory_l": "Oleksandr plans to explore more coastal regions in the future, focusing on cultural experiences.",
+        "query_type": "Recommendation",
+        "query": "Can you suggest a destination for my next cultural heritage tour?",
+        "options": {
+            "Correct": "Considering your plan to explore coastal regions for cultural experiences, I recommend visiting the Amalfi Coast or Kyoto's seaside temples, which blend heritage with the coast.",
+            "Trap_Preference": "Since you love cultural heritage tours that enrich your understanding of history, I suggest visiting the landlocked ancient ruins of Machu Picchu or the pyramids of Giza.",
+            "Trap_Fabrication": "You should visit the Swiss Alps, as you recently mentioned wanting to focus your cultural exploration on high-altitude mountain villages for your next trip.",
+            "Trap_Generic": "Cultural heritage tours are a fantastic way to learn; popular destinations like Rome, Paris, or Beijing offer incredible historical sites and museums to explore."
+        },
+        "diff_similarity_score": -0.2278,
+        "query_time": "Jun 15, 2033",
+        "category": "Contextual Fit"
+    },
+    {
+        "memory_s": "Oleksandr adjusted his work habits to better accommodate his health needs, integrating new routines like dietary adjustments and rest periods as of Jun 15, 2026.",
+        "memory_l": "Oleksandr shared that emotional support and companionship have helped him stay focused on his life goals related to social justice.",
+        "query_type": "Advice",
+        "query": "Should I isolate myself completely to focus solely on my work routines and health adjustments?",
+        "options": {
+            "Correct": "While focusing on your health routines is important, isolating yourself completely might be counterproductive, as you've mentioned that emotional support and companionship are crucial for staying focused on your social justice goals.",
+            "Trap_Preference": "Yes, given that you have adjusted your work habits to prioritize your health needs since last year, isolating yourself to focus on those new routines and dietary adjustments sounds like the right move.",
+            "Trap_Fabrication": "It might be a good idea, especially since your current project requires absolute silence and you mentioned last week that distractions are hindering your productivity.",
+            "Trap_Generic": "Isolating yourself to focus on work and health can be very beneficial for productivity and wellness, allowing you to establish strong habits without outside interference."
+        },
+        "diff_similarity_score": -0.1992,
+        "query_time": "Dec 16, 2027",
+        "category": "Goal/Mission Alignment"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko plans to continue regular physical activity to maintain his health improvements and enhance his professional and personal goals.",
+        "memory_l": "Oleksandr discussed the impact of his leadership role on his health, emphasizing the need for lifestyle reassessment to manage his chronic condition.",
+        "query_type": "Advice",
+        "query": "Should I ramp up my daily workout routine to hit my new professional and personal targets?",
+        "options": {
+            "Correct": "Considering your recent discussions about how your leadership role is impacting your health and the need to manage your chronic condition, it would be safer to focus on lifestyle reassessment rather than intensifying your workouts right now.",
+            "Trap_Preference": "Yes, absolutely; ramping up your routine aligns perfectly with your plan to maintain health improvements and will give you the energy boost needed to achieve your professional goals.",
+            "Trap_Fabrication": "You should definitely increase the intensity, especially since your recent medical check-up confirmed your cardiovascular system is fully recovered and ready for high-stress training.",
+            "Trap_Generic": "Increasing your daily workout intensity is generally a great way to build discipline and stamina, which can directly translate to better performance in both your career and personal life."
+        },
+        "diff_similarity_score": -0.2028,
+        "query_time": "Jan 15, 2032",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr expressed gratitude for the support from colleagues and friends during his health struggles, acknowledging their impact on his resilience and determination.",
+        "memory_l": "Oleksandr Shevchenko's mental health status changed from \"Optimistic and Energized\" to \"Determined but Struggling\".",
+        "query_type": "Advice",
+        "query": "Given how much my friends' support has boosted my resilience lately, should I volunteer to lead the upcoming charity gala?",
+        "options": {
+            "Correct": "While your gratitude and resilience are commendable, your current health status suggests you are still struggling, so taking on a leadership role might be overwhelming right now.",
+            "Trap_Preference": "Yes, absolutely; since you have acknowledged how much their support has impacted your determination, leading the gala is the perfect way to give back to them.",
+            "Trap_Fabrication": "You should go for it, especially since your doctor recently cleared you for high-stress activities and noted your energy levels are at an all-time high.",
+            "Trap_Generic": "Volunteering for charity events is a wonderful way to connect with your community and organizing a gala is a very rewarding experience for anyone involved."
+        },
+        "diff_similarity_score": -0.2802,
+        "query_time": "Mar 15, 2036, 22:22:15",
+        "category": "State Constraint"
+    },
+    {
+        "memory_s": "Oleksandr emphasized the importance of maintaining a work-life balance amidst increased financial security.",
+        "memory_l": "Oleksandr plans to write articles and speak at conferences to share his insights on health, balance, and advocacy.",
+        "query_type": "Advice",
+        "query": "Should I completely clear my schedule of all professional engagements to focus solely on relaxation?",
+        "options": {
+            "Correct": "While relaxation is important, you shouldn't clear everything, as you have plans to write articles and speak at conferences to share your insights on health and advocacy.",
+            "Trap_Preference": "Yes, you should clear your schedule, as you have emphasized the importance of maintaining a strict work-life balance now that you have increased financial security.",
+            "Trap_Fabrication": "Yes, clearing your schedule is a great idea since your recent retirement announcement means you are no longer accepting any public speaking or writing requests.",
+            "Trap_Generic": "Clearing your schedule can be very beneficial for mental health, allowing you to recharge and return to your professional life with renewed energy and focus later."
+        },
+        "diff_similarity_score": 0.0093,
+        "query_time": "Apr 20, 2037",
+        "category": "Resource Constraint"
+    },
+    {
+        "memory_s": "Oleksandr Shevchenko modified his travel preferences to include culinary experiences, aligning with his life goals related to social justice and cultural enrichment.",
+        "memory_l": "Oleksandr's compensatory motivation drives him to enhance his culinary skills through workshops and new experiences, including participation in culinary classes.",
+        "query_type": "Advice",
+        "query": "Should I skip the cooking class I signed up for to go on a spontaneous food tour instead?",
+        "options": {
+            "Correct": "You should stick with the cooking class, as your motivation to enhance your culinary skills through workshops is a key part of your current goals.",
+            "Trap_Preference": "Yes, a food tour aligns perfectly with your new travel preference for culinary experiences and cultural enrichment, so you should go for it.",
+            "Trap_Fabrication": "You should skip the class because the instructor cancelled today's session due to a kitchen maintenance issue, making the food tour the only option.",
+            "Trap_Generic": "Spontaneous food tours are a fantastic way to explore local culture and taste authentic dishes, so it sounds like a fun change of plans."
+        },
+        "diff_similarity_score": 0.1456,
+        "query_time": "Dec 16, 2027",
+        "category": "Motivational Orientation"
+    },
+    {
+        "memory_s": "Oleksandr's reflection on lifestyle changes highlighted the need to balance time constraints with pet care responsibilities.",
+        "memory_l": "Oleksandr Shevchenko is considering expanding his consultancy's services to include more educational initiatives and workshops.",
+        "query_type": "Advice",
+        "query": "Given my recent thoughts on balancing time and pet care, should I start a dog training boot camp with my free time?",
+        "options": {
+            "Correct": "I cannot recommend that right now, as your consultancy expansion plans require your full attention for upcoming educational workshops.",
+            "Trap_Preference": "That sounds like a solid plan, especially since you have been reflecting on how to better balance your time with pet care duties.",
+            "Trap_Fabrication": "You should definitely proceed, as recent surveys show a 40% increase in demand for dog training services in your immediate neighborhood.",
+            "Trap_Generic": "Starting a dog training boot camp can be very rewarding and offers a wonderful way to connect with the community and animals."
+        },
+        "diff_similarity_score": -0.347,
+        "query_time": "Mar 15, 2037, 23:15:00",
+        "category": "Goal/Mission Alignment"
+    }
+]

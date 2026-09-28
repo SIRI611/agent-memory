@@ -1,0 +1,77 @@
+
+per-source hits: arxiv=0, dblp=0, open_alex=0, openreview=0, semantic_scholar=3, crossref=10
+unique papers: 12 (1 cross-source duplicate records merged)
+============================================================
+  [1] (score 6) Layer-Conditional Emotional Weighting: Does Emotion-Aware Memory Consolidation Need to Be Layer-Specific, and Does It Transfer from Dialogue Personalization to Agentic Task Memory?
+      Authors: V. Gupta
+      Year: 2026  Citations: 0  Venue: Iconic research and engineering journals
+      Sources: semantic_scholar  doi:10.64388/irev10i2-1722568
+      URL: https://www.semanticscholar.org/paper/82819d3609fb506d7e5194468f776ff5715e9475
+
+  [2] (score 5) CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval
+      Authors: Zhiyuan Li, Lin-Yuan Gao, Xue-Chun Ding...
+      Year: 2026  Citations: 1  Venue: 
+      Sources: semantic_scholar  arXiv:2608.25500
+      URL: https://www.semanticscholar.org/paper/a65b1781cfa5222e2a2e6ed858f77bc68b4714cd
+
+  [3] (score 5) Personalized Turn-Level User Conversation Satisfaction Benchmark
+      Authors: Zhefan Wang, Zhiqiang Guo, Weizhi Ma...
+      Year: 2026  Citations: 0  Venue: arXiv.org
+      Sources: semantic_scholar  doi:10.48550/arXiv.2605.29711 arXiv:2605.29711
+      URL: https://www.semanticscholar.org/paper/342aec586339877dbae0447adf929f1cf0fd6c45
+
+  [4] (score 3) Bayesian Active Learning with Gaussian Processes Guided by LLM Relevance Scoring for Dense Passage Retrieval
+      Authors: Junyoung Kim, Anton Korikov, Jiazhou Liang...
+      Year: 2026  Citations: 0  Venue: Findings of the Association for Computational Linguistics: ACL 2026
+      Sources: crossref  doi:10.18653/v1/2026.findings-acl.481
+      URL: https://doi.org/10.18653/v1/2026.findings-acl.481
+
+  [5] (score 3) Momentary Contexts - A Memory and Retrieval Approach for LLM Efficiency
+      Authors: Jaepil Jeong
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.31219/osf.io/v5sze
+      URL: https://doi.org/10.31219/osf.io/v5sze
+
+  [6] (score 3) Self-relevance dominates memory, whereas partner-relevance depends on retrieval goals: Evidence from event-related potentials
+      Authors: Kimiko Kato, Kazuhito Yoshizaki
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.2139/ssrn.5616124
+      URL: https://doi.org/10.2139/ssrn.5616124
+
+  [7] (score 2) Learned Importance Scoring for Adaptive Memory Compaction in LLM-Based Agent Systems
+      Authors: Yong Sun
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.2139/ssrn.6576151
+      URL: https://doi.org/10.2139/ssrn.6576151
+
+  [8] (score 2) M.A.K.S: Multidimensional Access Knowledge Scoring for Long-Horizon LLM Agent Memory Management
+      Authors: 
+      Year: 2026  Citations: 0  Venue: Iconic Research and Engineering Journals
+      Sources: crossref  doi:10.64388/irev9i11-1718160
+      URL: https://doi.org/10.64388/irev9i11-1718160
+
+  [9] (score 2) Retrieval Beats Cheap Structured Memory: A Cost–Retention Study of LLM Agent Memory on Real Long-Conversation Benchmarks
+      Authors: Ishan Gautam, Kushal K.C.
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.20944/preprints202608.1369.v1
+      URL: https://doi.org/10.20944/preprints202608.1369.v1
+
+  [10] (score 2) Latent Governance in Long-Horizon LLM Systems: Memory Stability without a Persistent Compute Tax
+      Authors: Minsuk Kim
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.2139/ssrn.6054896
+      URL: https://doi.org/10.2139/ssrn.6054896
+
+  [11] (score 2) Beyond Relevance: Utility-Centric Retrieval in the LLM Era
+      Authors: Hengran Zhang, Minghao Tang, Keping Bi...
+      Year: 2026  Citations: 0  Venue: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
+      Sources: crossref  doi:10.1145/3805712.3808641
+      URL: https://doi.org/10.1145/3805712.3808641
+
+  [12] (score 2) Hierarchical Memory Consolidation and Context-Efficient Retrieval forPersistent Personality in LLM-Based Game NPCs
+      Authors: Fardani Annisa Damastuti, Kenan Firmansyah, Aliridho Barakbah...
+      Year: None  Citations: 0  Venue: 
+      Sources: crossref  doi:10.2139/ssrn.6536138
+      URL: https://doi.org/10.2139/ssrn.6536138
+
+Total: 12 unique papers (ranked; surveys sunk to the bottom).

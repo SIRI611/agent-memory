@@ -1,0 +1,73 @@
+{
+  "policy_version": "v0.1-admission",
+  "jev_model": "typesafe-ai/jev",
+  "answer_model": "deepseek-flash",
+  "deepseek_budget_usd": 100,
+  "answer_base_url": "https://api.deepseek.com/chat/completions",
+  "thinking": {"type": "disabled"},
+  "max_output_tokens": 1024,
+  "judge_max_output_tokens": 512,
+  "token_counter": "ceil_chars_div_4",
+  "low_priority_threshold": 0.35,
+  "pilot_size": 20,
+  "max_low_priority_in_pilot": 12,
+  "random_seed": 0,
+  "weights": {
+    "constraint": 0.35,
+    "impact": 0.3,
+    "stable": 0.2,
+    "user_specific": 0.15
+  },
+  "keywords": [
+    "allerg",
+    "asthma",
+    "diagnos",
+    "pregnan",
+    "medication",
+    "medicine",
+    "halal",
+    "kosher",
+    "vegan",
+    "vegetarian",
+    "diabet",
+    "wheelchair",
+    "hearing",
+    "gluten",
+    "lactose",
+    "seizure",
+    "disability",
+    "injur",
+    "surgery",
+    "budget",
+    "debt",
+    "visa",
+    "custody"
+  ],
+  "budgets": [128, 256, 512, 1024],
+  "offline_selectors": [
+    "jev_priority",
+    "user_specific",
+    "decision_relevant",
+    "keyword",
+    "shortness",
+    "random"
+  ],
+  "pilot_conditions": [
+    {"id": "oracle", "selector": null, "budget": null},
+    {"id": "no_memory", "selector": null, "budget": null},
+    {"id": "jev_priority_128", "selector": "jev_priority", "budget": 128},
+    {"id": "jev_priority_512", "selector": "jev_priority", "budget": 512},
+    {"id": "shortness_128", "selector": "shortness", "budget": 128},
+    {"id": "shortness_512", "selector": "shortness", "budget": 512},
+    {"id": "keyword_512", "selector": "keyword", "budget": 512}
+  ],
+  "prompt_id": "inmind_official",
+  "deviations_from_inmind_protocol": [
+    "Answer and judge model is deepseek-flash, not gpt-5-mini. Numbers are not comparable to the InMind table.",
+    "Thinking mode is explicitly disabled. DeepSeek's default is thinking on.",
+    "Answer and judge outputs are capped at 1024 and 512 tokens.",
+    "Sessions are not replayed. Each user turn was scored alone, then the final core is packed from those scores.",
+    "Token budgets use ceil(characters/4), not the DeepSeek tokenizer.",
+    "The official answer prompt asks the model to mention safety facts proactively. That can inflate indirect accuracy."
+  ]
+}
