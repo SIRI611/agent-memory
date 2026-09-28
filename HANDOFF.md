@@ -6,23 +6,7 @@
 本机完整实验树：`/home/xirui4/projects/aip-jjin5/xirui4/jevtest`。
 方法与数字的长文在 Google Doc「jevtest：记忆选择实验的方法与结果」。本文件只写还要做什么、为什么、以及怎么跑。
 
-## 0. 先用哪份目录
-
-在这台机器上跑，用本机的 `jevtest`，不要用一份只有 GitHub 代码的新克隆。缓存、答题记录和 LongMemEval 数据都只在本机。
-
-GitHub 上没有这些东西，`.gitignore` 也把它们排除了：
-
-| 只在本机 | 原因 |
-|---|---|
-| `.env` | API 密钥。不要提交，不要打印 |
-| `.venv-embed/` | MiniLM 环境，约 2.4 GB |
-| `results/` | Jev 缓存、DeepSeek 答题和报告，约 108 MB |
-| `novelty/papers/` | 论文 PDF |
-| `data/heldout/longmemeval/longmemeval_s_cleaned.json` | 277 MB，超过 GitHub 单文件 100 MB 限制 |
-
-密钥从本机 `.env` 读，需要 `AI_GATEWAY_API_KEY`（Jev）、`DEEPSEEK_API_KEY` 和 `OPENAI_API_KEY`。DeepSeek 账本上限 100 美元，截至 2026-09-27 的累计估计是 **16.45 美元**（`results/framework/deepseek_ledger.jsonl` 最后一行的 `spent_after_usd`）。这本账不管 OpenAI。GPT 重跑要另建账本，并在 `configs/` 里写明上限，再发第一笔付费请求。Jev 的促销免费到 2026-09-25，现在再打分可能要花钱。已经缓存的 Jev pair 不要重打。
-
-工作目录必须是 `jevtest` 根目录，这样 `python -m jev_persist....` 才能找到包。不加 `--execute`（或对应的阶段开关）时，入口只计数，不发请求。先干跑，再加开关。
+Jev 用环境变量 `AI_GATEWAY_API_KEY`。
 
 ## 1. 已经成立、不要重跑的结论
 
